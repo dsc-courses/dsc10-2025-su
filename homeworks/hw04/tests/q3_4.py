@@ -1,0 +1,1 @@
+test = {'name': 'q3_4', 'points': None, 'suites': [{'cases': [{'code': '>>> type(q3_4) == bool\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}

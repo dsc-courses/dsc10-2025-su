@@ -1,0 +1,10 @@
+test = {   'name': 'q4_3',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': ">>> callable(app_and_hist) and (lyft_string != None) # Make sure your function returns a string, and doesn't just print a string\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> uber_string[:62] == 'A 99% confidence interval for the average Uber ride price is ['\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

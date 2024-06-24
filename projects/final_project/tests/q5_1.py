@@ -1,0 +1,12 @@
+test = {   'name': 'q5_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': ">>> isinstance(halves, bpd.DataFrame) and 'which_half' in halves.columns and 'which_half' not in episodes.columns\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': ">>> list(np.sort(np.unique(halves.get('which_half')))) == ['first half', 'second half'] # Check spelling and capitalization.\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,12 @@
+test = {   'name': 'q1_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': ">>> get_teleplay_writers(episodes.get('written_by').iloc[4]) == ['Jeff Greenstein', 'Jeff Strauss'] # Check for extra spaces.\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': ">>> get_teleplay_writers(episodes.get('written_by').iloc[15]) == ['Marta Kauffman', 'David Crane'] # Check for extra spaces.\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,12 @@
+test = {   'name': 'q2_7_a',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(nearest_integer_bins, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> nearest_integer_bins[2] - nearest_integer_bins[1] == 1 \nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> len(nearest_integer_bins) == 10 # Make sure you have exactly the number of bins you need to capture all the data, as explained in the notes.\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> nearest_integer_bins[2] * 10 % 10 == 5 # Try again!\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

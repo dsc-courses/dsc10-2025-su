@@ -1,0 +1,10 @@
+test = {   'name': 'q3_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': ">>> callable(main_char) and isinstance(main_lines, bpd.DataFrame) and lines.shape[0] == 8457 # Don't change lines!\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> main_char('Chandler Bing') == True and main_char('Janice Hosenstein') == False\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,12 @@
+test = {   'name': 'q4_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> # The function should return a string\n>>> callable(emojify) and isinstance(emojify('crept', 'shark'), str)\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> ((ord(emojify('plane', 'grain')[-1]) + ord(emojify('plane', 'grain')[3]) - ord(emojify('plane', 'grain')[2])) ** 2 ) % 13 == 9 # Try again!\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> # This test checks the first example in question description.\n>>> emojify('crept', 'shark') == '⬛🟨⬛⬛⬛'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> # This test checks the second example in question description.\n>>> emojify('chalk', 'shark') == '⬛🟩🟩⬛🟩'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
