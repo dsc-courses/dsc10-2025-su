@@ -1,2 +1,2 @@
-# dsc10-2024-sp
-public repository for DSC 10 in Spring 2024
+# dsc10-2024-su
+Public repository for DSC 10 in Summer 2024.
