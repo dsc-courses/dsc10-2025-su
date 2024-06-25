@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 10
-description: DSC 10, Spring 2024 at UC San Diego
+description: DSC 10, Summer 2024 at UC San Diego
 tagline: Principles of Data Science
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dsc10.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: DSC 10 Instructors and Course Staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,17 +29,17 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   🙋 Ed:
-    - 'https://edstem.org/us/courses/57461/discussion/ '
+    - "https://edstem.org/us/courses/57461/discussion/ "
   💯 Gradescope:
-    - 'https://www.gradescope.com/courses/757097'
+    - "https://www.gradescope.com/courses/757097"
   📌 Reference:
-    - 'https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing'
+    - "https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing"
   💪 Practice:
-    - 'https://practice.dsc10.com/'
+    - "https://practice.dsc10.com/"
   ✅ CC:
-    - 'http://cc.dsc10.com/'
+    - "http://cc.dsc10.com/"
   🎥 Podcasts:
-    - 'https://podcast.ucsd.edu/'
+    - "https://podcast.ucsd.edu/"
 footer_content:
 
 # Collections for website data
@@ -52,29 +52,29 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/staff-images/wi24'
+      subpath: "/assets/staff-images/wi24"
   - scope:
-      path: ''
+      path: ""
       type: staffersnobio
     values:
       layout: staffer_no_bio
-      subpath: '/assets/staff-images/wi24'
+      subpath: "/assets/staff-images/wi24"
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
