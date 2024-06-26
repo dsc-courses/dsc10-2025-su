@@ -29,6 +29,7 @@
                 url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
             keywords: smoking/babies, np.random.permutation, shuffling, Deflategate
           - name: DISC 7
+            type: disc
             title: Hypothesis Testing, Total Variation Distance, and Permutation Testing
       - date: 2024-7-31
         events: 
@@ -81,7 +82,7 @@
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=projects/final_project/FinalProject.ipynb
       - date: 2024-8-2
         events: 
-          - name: REVIEW
+          - name: REV 2
             type: review
             title: Final Exam Review
           - name: LAB 7

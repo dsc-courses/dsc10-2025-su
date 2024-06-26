@@ -51,7 +51,7 @@
           - name: LEC 14
             type: lecture
             title: Bootstrapping and Confidence Intervals
-          - name: REVIEW
+          - name: REV 1
             type: review
             title: Midterm Review
       - date: 2024-7-18
