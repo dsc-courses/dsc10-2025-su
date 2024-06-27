@@ -75,9 +75,9 @@ Subsequent discussion sections will be focused on quiz and exam preparation. Stu
 <!-- {: .warning }
 **In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.** -->
 
-### Quiz Sessions
+### Quiz/Work Sessions
 
-All students enrolled are assigned to a lab section (listed as LA on WebReg and the Schedule of Classes). This is a two-hour block on Wednesdays that you should have reserved for this class. We will use some of this time to administer quizzes. See the [Quizzes](#quizzes) section of the syllabus for more information.
+All students enrolled are assigned to a lab section (listed as LA on WebReg and the Schedule of Classes). This is a two-hour block on Wednesdays following lecture that you should have reserved for this class. We will use this time on July 10 to administer one quiz. During the other four weeks of the summer session, we will set this time aside as a working session where staff will be present to help with lab and homework. See the [Quizzes](#quizzes) section of the syllabus for more information.
 
 The quiz section will take place:
 
@@ -131,10 +131,13 @@ additional platforms that you'll need to access:
 
 - **Ed:** We'll be using Ed as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/ZKMd5E).
+  section below.
+  <!-- If you didn't already get an invitation, [join here](https://edstem.org/us/join/ZKMd5E). -->
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/757097). This is where all of
+  <!-- [Gradescope](https://www.gradescope.com/courses/757097). This is where all of -->
+
+  Gradescope. This is where all of
   your grades will live as well. You will be automatically added to Gradescope within 24 hours of enrolling in the course.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
@@ -150,7 +153,9 @@ them, too (though they're all linked at the top of this website).
 
 ### Welcome Survey
 
-Please fill out this short [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9) at the start of the quarter. This is required of all students.
+Please fill out this short Welcome Survey at the start of the quarter. This is required of all students.
+
+<!-- Please fill out this short [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9) at the start of the quarter. This is required of all students. -->
 
 ### Pretest
 
@@ -205,10 +210,11 @@ assignment and all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will _usually_ be due on **Thursdays at 11:59PM**,
-though you should refer to the homepage of this website for the most up-to-date schedule. We will
-release lab assignments roughly a week before they're due. **Your lowest lab score
+deadline**. We will release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
+
+<!-- Lab assignments will _usually_ be due on **Thursdays at 11:59PM**, -->
+<!-- though you should refer to the homepage of this website for the most up-to-date schedule.  -->
 
 Labs must be completed and submitted individually, but we encourage you to
 discuss high-level approaches with others. See the [Collaboration Policy and
@@ -240,10 +246,12 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will be due on **Mondays at
-11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule. We will release homework assignments roughly a week before they're
+notebook to Gradescope. We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
 is dropped from your grade calculation at the end of the quarter.**
+
+<!-- Homeworks will be due on **Mondays at
+11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule.  -->
 
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
@@ -269,7 +277,7 @@ partner can be anyone else in any section of the course. If you choose to
 work with a partner, start by reading these [project partner guidelines](../project-partners).
 If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in your Gradescope submission.
 
-### Deadlines and Slip Days
+### Deadlines
 
 Labs, homeworks, and projects must be submitted by 11:59PM on the due date to
 be considered on time. You may turn them in as many times as you like before
@@ -293,7 +301,12 @@ After submitting, check that you got a confirmation email
 from Gradescope to verify that your submission was successful. Save this email
 until you receive your grade on the assignment, in case of any issues with your submission.
 
-You are allotted **six "slip days"** to use throughout the quarter. A slip day extends
+Extension requests will be granted on a case-by-case basis; please
+[email Nishant directly](mailto:nkheterpal@ucsd.edu) (nkheterpal@ucsd.edu)
+as soon as possible once you know that you may need an extension. The earlier we know that
+something has come up, the more we can help support you.
+
+<!-- You are allotted **six "slip days"** to use throughout the quarter. A slip day extends
 the deadline of any one homework, lab, or project by 24 hours. You cannot turn
 in any assignments more than 48 hours late, meaning that you cannot use more
 than 2 slip days on any assignment.
@@ -320,7 +333,7 @@ used up all of your slip days at the end of the quarter; in such an example,
 you'd instead receive a 0 on an earlier assignment that isn't weighted as much
 in your grade.
 
-If you submit the Midterm Project or Final Project late and are working with a partner, both you and your partner will have to use slip days. For example, if you submit the Midterm Project two days late, both you and your partner will lose two slip days.
+If you submit the Midterm Project or Final Project late and are working with a partner, both you and your partner will have to use slip days. For example, if you submit the Midterm Project two days late, both you and your partner will lose two slip days. -->
 
 ### Submission Errors
 
@@ -362,28 +375,20 @@ We will assess your knowledge of course material frequently through quizzes and 
 
 This class has one Midterm Exam and one Final Exam:
 
-- Midterm Exam: Friday, May 3, **during your enrolled lecture slot**
-- Final Exam: Saturday, June 8, 7-10PM, location TBD
+- Midterm Exam: Thursday, July 18, 11a-12p in Mosaic 0204.
+- Final Exam: Saturday, August 3, 11:30a-2:30p, location TBD.
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the Welcome Survey to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ### Quizzes
 
 Quizzes are a relatively new component of the course, introduced last quarter, to help students get more practice solving problems on-paper without a computer in front of them, as they'll need to do on exams. Quiz questions are meant to be more straightforward to than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam.
 
-There are five quizzes throughout the quarter, administered in the lab section (on Wednesdays):
+We will have only one quiz, administered in the lab section on Wednesday, July 10. This quiz is designed to give you a low-stakes opportunity to practice solving problems on paper, with room for failure, as some practice before our midterm. The score from your quiz will replace your lowest assignment (lab or homework) score.
 
-- Quiz 1: Friday, April 12
-- Quiz 2: Friday, April 26
-- Quiz 3: Friday, May 17
-- Quiz 4: Friday, May 24
-- Quiz 5: Friday, May 31
-
-We will count only your three highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores. Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
-
-We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, you have some flexibility because two quiz scores are dropped.
+We will not offer a makeup quiz. If you are sick, traveling, or otherwise need to miss the quiz, you have some flexibility because it replaces an assignment score.
 
 ---
 
@@ -393,7 +398,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | | Lecture and Discussion | Lecture and Quiz Session | Lecture and Discussion | | |
+| | | Lecture and Discussion | Lecture and Lab Session | Lecture and Discussion | | |
 | | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> (usually) | | |
 
 ---
@@ -404,16 +409,15 @@ The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
-| Lab Assignments | 10% | drop lowest score |
-| Homework Assignments | 25% | 5% each, drop lowest score |
-| Quizzes | 15% | 5% each, drop two lowest scores |
+| Lab Assignments | 15% | drop lowest score |
+| Homework Assignments | 30% | 5% each, lowest score replaced by quiz |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
 | Final Exam | 20% | |
 
 Note that all assignments in each category will be worth the same amount,
-regardless of the number of points they are graded out of.
+regardless of the number of points out of which they are graded.
 
 ### Regrade Requests
 
