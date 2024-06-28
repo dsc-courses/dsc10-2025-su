@@ -50,7 +50,7 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 There is one lecture section:
 
 - Tuesday 11a-12:50p in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
-- Wednesday 11a-12:50p [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
+- Wednesday 11a-12:50p in [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
 - Thursday 11a-12:50p in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
@@ -79,9 +79,9 @@ Subsequent discussion sections will be focused on quiz and exam preparation. Stu
 
 All students enrolled are assigned to a lab section (listed as LA on WebReg and the Schedule of Classes). This is a two-hour block on Wednesdays following lecture that you should have reserved for this class. We will use this time on July 10 to administer one quiz. During the other four weeks of the summer session, we will set this time aside as a working session where staff will be present to help with lab and homework. See the [Quizzes](#quizzes) section of the syllabus for more information.
 
-The quiz section will take place:
+The quiz/work session will take place directly after lecture Wednesday in the same room, after a half-hour break:
 
-- Wednesday 1:30-3:20p in [ROOM TBD]
+- Wednesday 1:30-3:20p in [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
 
 ### Office Hours
 
