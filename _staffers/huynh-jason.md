@@ -4,7 +4,7 @@ role: Tutor
 pronouns: he/him
 email: jah037@ucsd.edu
 photo: assets/staff-images/su24/huynh-jason.jpg
-description: 2nd year, Data Science, Sixth
+description: 3rd year, Data Science and Cognitive Science, Sixth
 hometown: Modesto, CA
 askabout: Gym, music, video games
 foodemoji:
