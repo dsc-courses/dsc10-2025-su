@@ -50,7 +50,7 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 There is one lecture section:
 
 - Tuesday 11a-12:50p in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
-- Wednesday 11a-12:50p [Center 105](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?s/CENTR_Main)
+- Wednesday 11a-12:50p [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
 - Thursday 11a-12:50p in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
