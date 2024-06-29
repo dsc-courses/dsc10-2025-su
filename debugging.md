@@ -50,7 +50,7 @@ While you might see the correct answer displayed as the result of the cell, chan
 
 There are two solutions:
 
-1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2024-sp), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
+1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2024-su), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
 
 2. Suppose you're working on Lab 5. One solution is go directly to DataHub and rename your `lab05` folder to something else, like `lab05-old`. Then, click the Lab 5 link on the course website again, and it'll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.
 
