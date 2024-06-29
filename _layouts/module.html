@@ -18,12 +18,7 @@
         <a href="{{ event.url }}">{{ event.title }}</a>
         {% else %} {{ event.title }} {% endif %}  -->
         {{ event.title }} {%- if event.type == "lecture" or event.type ==
-        "review" -%} {%- if event.readings -%} <p>{% for reading in event.readings
-        %}
-        <a href="{{ reading.url }}">{{ reading.name }}</a>{% if forloop.last ==
-        false %}, {% endif %} {% endfor %}</p> {%- endif -%} <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        {%- if event.blank -%}
+        "review" -%} {%- if event.blank -%}
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <small>
@@ -123,7 +118,10 @@
               {%- endif -%} -->
         {%- if event.podcast and event.reading_name -%}
         <span> </span>
-        {%- endif -%}
+        {%- endif -%} {%- if event.readings -%} {% for reading in event.readings
+        %}
+        <a href="{{ reading.url }}">{{ reading.name }}</a>{% if forloop.last ==
+        false %}, {% endif %} {% endfor %} {%- endif -%}
         <!-- {{ event.reading_name | markdownify | remove: '<p>' | remove: '</p>' }} -->
       </p>
       {%- if event.keywords -%}
