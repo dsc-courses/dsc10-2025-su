@@ -55,7 +55,7 @@ Lecture is meant to introduce you to the main concepts of the course. In-person 
 
 **Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
 
-<!-- We will also link recordings directly on the course homepage; you can access these by clicking the 🎥 emoji. -->
+We will also link recordings directly on the course homepage; you can access these by clicking the podcast button with the 🎥 emoji.
 
 ### Discussion
 
@@ -130,10 +130,10 @@ additional platforms that you'll need to access:
 - **Ed:** We'll be using Ed as our course message and
   discussion board. More details are in the [Communication](#-communication)
   section below.
-  <!-- If you didn't already get an invitation, [join here](https://edstem.org/us/join/ZKMd5E). -->
+  If you didn't already get an invitation, [join here](https://edstem.org/us/courses/60685/discussion/).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  <!-- [Gradescope](https://www.gradescope.com/courses/757097). This is where all of -->
+  [Gradescope](https://www.gradescope.com/courses/803402). This is where all of
 
   Gradescope. This is where all of
   your grades will live as well. You will be automatically added to Gradescope within 24 hours of enrolling in the course.
@@ -421,7 +421,7 @@ regardless of the number of points out of which they are graded.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder, please fill out the [Autograder Regrade Request Form](https://forms.gle/5LMq7GEneFTWXzHL9). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder, please email Nishant. If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
