@@ -1,7 +1,7 @@
 ---
 name: Nishant Kheterpal
 role: Instructor
-pronouns: she/her
+pronouns: he/him/his
 email: nkheterpal@ucsd.edu
 website: https://nishant.page
 photo: assets/staff-images/su24/nishant.jpg
