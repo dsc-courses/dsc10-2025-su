@@ -48,7 +48,7 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 There is one lecture section:
 
 - Tuesday 11AM-12:50PM in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
-- Wednesday 11A-12:50PM in [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
+- Wednesday 11AM-12:50PM in [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
 - Thursday 11AM-12:50PM in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
@@ -153,7 +153,7 @@ them, too (though they're all linked at the top of this website).
 
 Please fill out this short Welcome Survey at the start of the quarter. This is required of all students.
 
-<!-- Please fill out this short [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9) at the start of the quarter. This is required of all students. -->
+Please fill out this short [Welcome Survey](https://forms.gle/Bn38JncLactj4oR57) at the start of the quarter. This is required of all students.
 
 ### Pretest
 
@@ -378,7 +378,7 @@ This class has one Midterm Exam and one Final Exam:
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
-If you have a conflict with either exam, you should let us know right away via the Welcome Survey to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/Bn38JncLactj4oR57) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ### Quizzes
 

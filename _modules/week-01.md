@@ -31,7 +31,7 @@ days:
       - name: SUR
         type: survey
         title: <b>Welcome Survey</b>
-        # url: https://docs.google.com/forms/d/e/1FAIpQLSftyR__u1hEA39AufRcOZVf5Xu49wDJFokH212XJGhum88wqA/viewform # TODO fill in URL
+        url: https://forms.gle/Bn38JncLactj4oR57 
   - date: 2024-7-3
     events:
       - name: LEC 3
