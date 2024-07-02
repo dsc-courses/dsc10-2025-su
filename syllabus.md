@@ -151,8 +151,6 @@ them, too (though they're all linked at the top of this website).
 
 ### Welcome Survey
 
-Please fill out this short Welcome Survey at the start of the quarter. This is required of all students.
-
 Please fill out this short [Welcome Survey](https://forms.gle/Bn38JncLactj4oR57) at the start of the quarter. This is required of all students.
 
 ### Pretest
