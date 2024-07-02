@@ -57,7 +57,7 @@ days:
       - name: LAB 0
         type: lab
         title: Expressions and Data Types
-        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab00/lab00.ipynb
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab00/lab00.ipynb
   - date: 2024-7-4
     events:
       - markdown_content: <b>No Lecture (Independence Day)</b>
