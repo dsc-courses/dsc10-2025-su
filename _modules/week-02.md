@@ -7,7 +7,7 @@
         - name: LAB 1
           type: lab
           title: Arrays and DataFrames
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab01/lab01.ipynb
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab01/lab01.ipynb
       - date: 2024-7-9
         events:
           - name: LEC 5
