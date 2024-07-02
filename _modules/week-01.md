@@ -7,8 +7,8 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction
-        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec01/lec01.ipynb
-        # html: resources/lectures/lec01/lec01.html
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec01/lec01.ipynb
+        html: resources/lectures/lec01/lec01.html
         # podcast: https://podcast.ucsd.edu/watch/su24/dsc10/1
         readings:
           - url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
