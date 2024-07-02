@@ -9,7 +9,7 @@ days:
         title: Introduction
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec01/lec01.ipynb
         html: resources/lectures/lec01/lec01.html
-        # podcast: https://podcast.ucsd.edu/watch/su24/dsc10/1
+        podcast: https://ucsd.zoom.us/rec/share/5XXSTHcZXHoK6yCid_UKLKXMGYZ8mylMn-ZL7REt45KUSZ1tlH-GSo9OhcHgSxzp.JCTjSApzKiNafCUT?startTime=1719943187000
         readings:
           - url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
             name: CIT 1.0-1.3
