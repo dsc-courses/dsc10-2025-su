@@ -19,7 +19,6 @@ days:
         title: Expressions and Data Types
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec02/lec02.ipynb
         html: resources/lectures/lec02/lec02.html
-        # podcast:
         readings:
           - name: BPD 1-6
             url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -39,6 +38,7 @@ days:
         title: Strings, Lists, and Arrays
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec03/lec03.ipynb
         html: resources/lectures/lec03/lec03.html
+        podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00
         readings:
           - name: BPD 7-8
             url: https://notes.dsc10.com/02-data_sets/arrays.html
