@@ -50,6 +50,7 @@ days:
         title: Arrays and DataFrames
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec04/lec04.ipynb
         html: resources/lectures/lec04/lec04.html
+        podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00
         readings:
           - name: BPD 9
             url: https://notes.dsc10.com/02-data_sets/accessing.html
