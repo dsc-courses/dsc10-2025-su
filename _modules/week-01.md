@@ -37,8 +37,8 @@ days:
       - name: LEC 3
         type: lecture
         title: Strings, Lists, and Arrays
-        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec03/lec03.ipynb
-        # html: resources/lectures/lec03/lec03.html
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec03/lec03.ipynb
+        html: resources/lectures/lec03/lec03.html
         readings:
           - name: BPD 7-8
             url: https://notes.dsc10.com/02-data_sets/arrays.html
@@ -48,8 +48,8 @@ days:
       - name: LEC 4
         type: lecture
         title: Arrays and DataFrames
-        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec04/lec04.ipynb
-        # html: resources/lectures/lec04/lec04.html
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec04/lec04.ipynb
+        html: resources/lectures/lec04/lec04.html
         readings:
           - name: BPD 9
             url: https://notes.dsc10.com/02-data_sets/accessing.html
