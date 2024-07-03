@@ -60,7 +60,7 @@
           - name: HW 1
             type: hw
             title: Basic Python, Arrays, and DataFrames
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw01/hw01.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw01/hw01.ipynb
       - date: 2024-7-11
         events:
           - name: LEC 9
@@ -90,5 +90,5 @@
           - name: LAB 2
             type: lab
             title: Data Visualizations and Python Functions
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab02/lab02.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab02/lab02.ipynb
 ---
