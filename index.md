@@ -27,6 +27,9 @@ nav_order: 1
 {: .success }
 Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) carefully, paying special attention to the ["Getting Started"](https://dsc10.com/syllabus/#-getting-started) section. Make sure to complete the Welcome Survey and [Pretest](https://practice.dsc10.com/pretest/) to get off to a good start!
 
+{: .warning}
+If you're trying to watch the Zoom recording below for lectures 1/2 and having issues, try this password: `=.*5tW55`
+
 [Jump to the current week](#week-1-python-basics-and-dataframes){: .btn }
 
 {% for module in site.modules %}
