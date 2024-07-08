@@ -31,7 +31,7 @@
           - name: DISC 2
             type: disc
             title: Arrays and DataFrames
-            # url: https://practice.dsc10.com/disc02/index.html
+            url: https://practice.dsc10.com/disc02/index.html
       - date: 2024-7-10
         events:
           - name: LEC 7
