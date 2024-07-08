@@ -13,7 +13,7 @@
           - name: LEC 5
             type: lecture
             title: Querying and Grouping
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec05/lec05.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec05/lec05.ipynb
             html: resources/lectures/lec05/lec05.html
             readings:
               - name: BPD 10-11
@@ -22,8 +22,8 @@
           - name: LEC 6
             type: lecture
             title: Grouping and Data Visualization
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec06/lec06.ipynb
-            # html: resources/lectures/lec06/lec06.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec06/lec06.ipynb
+            html: resources/lectures/lec06/lec06.html
             readings: 
               - name: CIT 7.0-7.1
                 url: https://inferentialthinking.com/chapters/07/Visualization.html
