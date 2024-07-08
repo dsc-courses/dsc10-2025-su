@@ -14,7 +14,7 @@
             type: lecture
             title: Querying and Grouping
             # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec05/lec05.ipynb
-            # html: resources/lectures/lec05/lec05.html
+            html: resources/lectures/lec05/lec05.html
             readings:
               - name: BPD 10-11
                 url:  https://notes.dsc10.com/02-data_sets/querying.html
