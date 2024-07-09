@@ -92,11 +92,17 @@
           {%- endif -%} 
         {%- endif -%} {%- if event.type == "hw" or event.type ==
         "disc" -%} {%- if event.problems -%}
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;
         <small>
           <a href="{{ event.problems }}">
             <button type="button" class="btn btn-info">📄 problems</button>
+          </a>
+        </small>
+        {%- endif -%} {%- if event.slides -%}
+        &nbsp;&nbsp;
+        <small>
+          <a href="{{ event.slides }}">
+            <button type="button" class="btn btn-info">💻 slides</button>
           </a>
         </small>
         {%- endif -%} {%- if event.template -%}

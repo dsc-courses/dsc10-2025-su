@@ -31,7 +31,8 @@
           - name: DISC 2
             type: disc
             title: Arrays and DataFrames
-            url: https://practice.dsc10.com/disc02/index.html
+            problems: https://practice.dsc10.com/disc02/index.html
+            # slides: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/disc02/disc02.ipynb
       - date: 2024-7-10
         events:
           - name: LEC 7

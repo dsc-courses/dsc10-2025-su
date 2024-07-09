@@ -26,7 +26,7 @@ days:
       - name: DISC 1
         type: disc
         title: Getting Started with Jupyter Notebooks
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=discussion/disc01/disc01.ipynb
+        problems: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=discussion/disc01/disc01.ipynb
       - name: SUR
         type: survey
         title: <b>Welcome Survey</b>
