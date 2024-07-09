@@ -7,7 +7,7 @@
           - name: HW 2
             type: hw
             title: DataFrames, Data Visualization, and Functions
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw02/hw02.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw02/hw02.ipynb
       - date: 2024-7-16
         events: 
           - name: LEC 11
@@ -36,7 +36,7 @@
           - name: LAB 3
             type: lab
             title: DataFrames, Control Flow, and Probability
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab03/lab03.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab03/lab03.ipynb
       - date: 2024-7-17
         events: 
           - name: LEC 13
