@@ -41,7 +41,7 @@
             type: lecture
             title: Distributions and Histograms
             # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec07/lec07.ipynb
-            # html: resources/lectures/lec07/lec07.html
+            html: resources/lectures/lec07/lec07.html
             readings: 
               - name: CIT 7.2-7.3
                 url: https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html
@@ -50,7 +50,7 @@
             type: lecture
             title: Functions and Applying
             # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec08/lec08.ipynb
-            # html: resources/lectures/lec08/lec08.html
+            html: resources/lectures/lec08/lec08.html
             readings:
               - name: BPD 6
                 url: https://notes.dsc10.com/01-getting_started/functions-defining.html#example), 
