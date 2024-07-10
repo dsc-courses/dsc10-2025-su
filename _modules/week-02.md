@@ -40,7 +40,7 @@
           - name: LEC 7
             type: lecture
             title: Distributions and Histograms
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec07/lec07.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec07/lec07.ipynb
             html: resources/lectures/lec07/lec07.html
             readings: 
               - name: CIT 7.2-7.3
@@ -49,7 +49,7 @@
           - name: LEC 8
             type: lecture
             title: Functions and Applying
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec08/lec08.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec08/lec08.ipynb
             html: resources/lectures/lec08/lec08.html
             readings:
               - name: BPD 6
