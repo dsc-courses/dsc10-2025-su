@@ -89,7 +89,7 @@
           - name: DISC 3
             type: disc
             title: Querying, Grouping, and Plotting
-            # url: https://practice.dsc10.com/disc03/index.html
+            url: https://practice.dsc10.com/disc03/index.html
           - name: LAB 2
             type: lab
             title: Data Visualizations and Python Functions
