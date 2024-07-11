@@ -69,8 +69,8 @@
           - name: LEC 9
             type: lecture
             title: Grouping on Multiple Columns, Merging
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec09/lec09.ipynb
-            # html: resources/lectures/lec09/lec09.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec09/lec09.ipynb
+            html: resources/lectures/lec09/lec09.html
             readings: 
               - name: BPD 11
                 url: https://notes.dsc10.com/02-data_sets/groupby.html
@@ -80,8 +80,8 @@
           - name: LEC 10
             type: lecture
             title: Conditional Statements and Iteration
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec10/lec10.ipynb
-            # html: resources/lectures/lec10/lec10.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec10/lec10.ipynb
+            html: resources/lectures/lec10/lec10.html
             readings: 
               - name: CIT 9.0-9.2
                 url: https://inferentialthinking.com/chapters/09/Randomness.html
