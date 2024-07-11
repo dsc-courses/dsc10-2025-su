@@ -42,6 +42,7 @@
             title: Distributions and Histograms
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec07/lec07.ipynb
             html: resources/lectures/lec07/lec07.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/10/screen
             readings: 
               - name: CIT 7.2-7.3
                 url: https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html
@@ -51,6 +52,7 @@
             title: Functions and Applying
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec08/lec08.ipynb
             html: resources/lectures/lec08/lec08.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/10/screen
             readings:
               - name: BPD 6
                 url: https://notes.dsc10.com/01-getting_started/functions-defining.html#example), 
