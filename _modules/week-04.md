@@ -7,7 +7,7 @@
           - name: PROJ
             type: proj
             title: Midterm Project
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=projects/midterm_project/midterm_project.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=projects/midterm_project/midterm_project.ipynb
       - date: 2024-7-23
         events: 
           - name: LEC 15
