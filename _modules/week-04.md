@@ -61,7 +61,7 @@
           - name: HW 4
             type: hw
             title: Simulation, Sampling, and Bootstrapping
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw04/hw04.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw04/hw04.ipynb
       - date: 2024-7-25
         events: 
           - name: LEC 19 
@@ -91,11 +91,11 @@
           - name: LAB 5
             type: lab
             title: Variability and the Normal Distribution
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab05/lab05.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab05/lab05.ipynb
       - date: 2024-7-26
         events: 
           - name: HW 5
             type: hw
             title: The Normal Distribution and the Central Limit Theorem
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw05/hw05.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw05/hw05.ipynb
 ---
