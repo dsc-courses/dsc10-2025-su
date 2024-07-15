@@ -31,7 +31,7 @@
             keywords: np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall
           - name: DISC 4
             type: disc 
-            title: Functions, DataFrames, and Control Flow
+            title: Functions, DataFrames, Control Flow, Probability, and Simulation
             # url: https://practice.dsc10.com/disc04/index.html
           - name: LAB 3
             type: lab
