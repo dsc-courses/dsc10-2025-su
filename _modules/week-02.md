@@ -73,6 +73,7 @@
             title: Grouping on Multiple Columns, Merging
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec09/lec09.ipynb
             html: resources/lectures/lec09/lec09.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/2/screen
             readings: 
               - name: BPD 11
                 url: https://notes.dsc10.com/02-data_sets/groupby.html
@@ -84,6 +85,7 @@
             title: Conditional Statements and Iteration
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec10/lec10.ipynb
             html: resources/lectures/lec10/lec10.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/2/screen
             readings: 
               - name: CIT 9.0-9.2
                 url: https://inferentialthinking.com/chapters/09/Randomness.html
