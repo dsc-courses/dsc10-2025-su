@@ -7,7 +7,7 @@
           - name: LAB 6 
             type: lab
             title: Hypothesis Testing
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab06/lab06.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab06/lab06.ipynb
       - date: 2024-7-30
         events: 
           - name: LEC 21
@@ -54,7 +54,7 @@
           - name: HW 6
             type: hw
             title: Hypothesis Testing and Permutation Testing
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw06/hw06.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=homeworks/hw06/hw06.ipynb
       - date: 2024-8-1
         events: 
           - name: LEC 25
