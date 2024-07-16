@@ -33,6 +33,7 @@
             type: disc 
             title: Functions, DataFrames, Control Flow, Probability, and Simulation
             url: https://practice.dsc10.com/disc04/index.html
+            slides: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=discussion/disc04/disc04.ipynb
           - name: LAB 3
             type: lab
             title: DataFrames, Control Flow, and Probability
