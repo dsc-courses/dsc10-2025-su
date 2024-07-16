@@ -14,7 +14,7 @@
             type: lecture
             title: Probability
             # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec11/lec11.ipynb
-            # blank: resources/lectures/lec11/lec11.pdf
+            blank: resources/lectures/lec11/lec11.pdf
             # html: resources/lectures/lec11/lec11_9am.pdf
             readings: 
               - name: CIT 9.5
@@ -23,8 +23,8 @@
           - name: LEC 12
             type: lecture
             title: Simulation
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec12/lec12.ipynb
-            # html: resources/lectures/lec12/lec12.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec12/lec12.ipynb
+            html: resources/lectures/lec12/lec12.html
             readings: 
               - name: CIT 9.3-9.4
                 url: https://inferentialthinking.com/chapters/09/3/Simulation.html
