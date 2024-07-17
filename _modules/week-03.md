@@ -15,6 +15,7 @@
             title: Probability
             blank: resources/lectures/lec11/lec11.pdf
             html: resources/lectures/lec11/lec11-filled.pdf
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/3/screen
             readings: 
               - name: CIT 9.5
                 url: https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
@@ -24,6 +25,7 @@
             title: Simulation
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec12/lec12.ipynb
             html: resources/lectures/lec12/lec12.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/3/screen
             readings: 
               - name: CIT 9.3-9.4
                 url: https://inferentialthinking.com/chapters/09/3/Simulation.html
@@ -44,6 +46,7 @@
             title: Distributions and Sampling
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec13/lec13.ipynb
             html: resources/lectures/lec13/lec13.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/11/screen
             readings: 
               - name: CIT 10.0-10.4
                 url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
@@ -53,6 +56,7 @@
             title: Bootstrapping and Confidence Intervals
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec14/lec14.ipynb
             html: resources/lectures/lec14/lec14.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/11/screen
           - name: REV 1
             type: review
             title: Midterm Review
