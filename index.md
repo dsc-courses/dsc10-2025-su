@@ -28,8 +28,8 @@ Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) car
 {: .success}
 We have a busy week in DSC 10. See [Ed](https://edstem.org/us/courses/60685/discussion/5101370) for a breakdown of the week's deadlines and our [recommended plan](https://edstem.org/us/courses/60685/discussion/5101370#:~:text=Weekly%20Plan%3A,DSC%2010%2Drelated%3A).
 
-{: .success}
-The Midterm Exam is this Thursday, July 18 from 11-11:50AM in Mosaic 0204, our usual lecture time and room. Details on logistics, format, etc can be found [on Ed](https://edstem.org/us/courses/60685/discussion/5105021).
+<!-- {: .success}
+The Midterm Exam is this Thursday, July 18 from 11-11:50AM in Mosaic 0204, our usual lecture time and room. Details on logistics, format, etc can be found [on Ed](https://edstem.org/us/courses/60685/discussion/5105021). -->
 
 
 
