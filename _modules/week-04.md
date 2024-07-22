@@ -13,8 +13,8 @@
           - name: LEC 15
             type: lecture
             title: Confidence Intervals, Center, and Spread
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec16/lec16.ipynb
-            # html: resources/lectures/lec16/lec16.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec16/lec16.ipynb
+            html: resources/lectures/lec15/lec15.html
             readings: 
               - name: CIT 13.3-13.4
                 url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
@@ -22,8 +22,8 @@
           - name: LEC 16
             type: lecture
             title: Standardization and the Normal Distribution
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec17/lec17.ipynb
-            # html: resources/lectures/lec17/lec17.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec17/lec17.ipynb
+            html: resources/lectures/lec16/lec16.html
             readings: 
               - name: CIT 14.2-14.3
                 url: https://inferentialthinking.com/chapters/14/2/Variability.html
@@ -31,7 +31,7 @@
           - name: DISC 5
             type: disc
             title: Sampling, Bootstrapping, and Confidence Intervals
-            # url: https://practice.dsc10.com/disc06/index.html
+            url: https://practice.dsc10.com/disc06/index.html
           - name: LAB 4
             type: lab 
             title: Simulation, Sampling, and Bootstrapping
@@ -41,8 +41,8 @@
           - name: LEC 17
             type: lecture
             title: The Central Limit Theorem
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec18/lec18.ipynb
-            # html: resources/lectures/lec18/lec18.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec18/lec18.ipynb
+            html: resources/lectures/lec17/lec17.html
             readings: 
               - name: CIT 14.4-14.5
                 url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
