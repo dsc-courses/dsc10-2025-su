@@ -13,7 +13,7 @@
           - name: LEC 15
             type: lecture
             title: Confidence Intervals, Center, and Spread
-            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec16/lec16.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec15/lec16.ipynb
             html: resources/lectures/lec15/lec15.html
             readings: 
               - name: CIT 13.3-13.4
@@ -22,7 +22,7 @@
           - name: LEC 16
             type: lecture
             title: Standardization and the Normal Distribution
-            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec17/lec17.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec16/lec17.ipynb
             html: resources/lectures/lec16/lec16.html
             readings: 
               - name: CIT 14.2-14.3
@@ -41,7 +41,7 @@
           - name: LEC 17
             type: lecture
             title: The Central Limit Theorem
-            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec18/lec18.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec17/lec18.ipynb
             html: resources/lectures/lec17/lec17.html
             readings: 
               - name: CIT 14.4-14.5
