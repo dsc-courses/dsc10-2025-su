@@ -93,7 +93,7 @@
         events: 
           - name: FINAL
             type: exam
-            title: FINAL EXAM, 11:30AM-2:29PM, Room TBA
+            title: FINAL EXAM, 11:30AM-2:29PM, Mosaic 0204
           - name: SUR
             type: survey
             title: SETs and End of Quarter Survey
