@@ -79,7 +79,7 @@
           - name: PROJ
             type: proj
             title: Final Project
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=projects/final_project/FinalProject.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=projects/final_project/FinalProject.ipynb
       - date: 2024-8-2
         events: 
           - name: REV 2
