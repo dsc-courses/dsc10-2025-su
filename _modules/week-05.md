@@ -88,7 +88,7 @@
           - name: LAB 7
             type: lab
             title: Regression
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab07/lab07.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=labs/lab07/lab07.ipynb
       - date: 2024-8-3
         events: 
           - name: FINAL
