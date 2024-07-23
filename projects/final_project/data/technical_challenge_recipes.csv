@@ -1,0 +1,84 @@
+Ssn,Ep,Item,Whose,Link,Components,IngredCount,RecipeSentences,Dishes,DifficultyScore
+1,1,Victoria Sandwich,Mary,https://thegreatbritishbakeoff.co.uk/victoria-sandwich-cake/,2,9,25,5,3.2
+1,2,Scone,Paul,https://thegreatbritishbakeoff.co.uk/scones/,1,5,15,6,1.8
+1,3,Cob,Paul,https://www.bbc.com/food/recipes/paul_hollywoods_crusty_83536,1,6,40,9,5.6
+1,4,Lemon Souffle,Mary,https://www.bbc.com/food/recipes/mary_berrys_lovely_lemon_73914,1,10,43,8,5.2
+1,5,Cornish pasties,Paul,https://www.bbc.com/food/recipes/classic_cornish_pasty_67037,2,11,32,4,3.4
+2,1,Coffee and Walnut Battenburg,Mary,https://www.bbc.com/food/recipes/coffee_and_walnut_88342,3,13,38,4,5.4
+2,2,Tart au Citron,Mary,https://www.bbc.com/food/recipes/tarte_au_citron_94480,2,9,37,4,4.4
+2,3,Focaccia,Paul,https://www.bbc.com/food/recipes/focaccia_08389,1,6,10,4,1.0
+2,4,Brandy snaps,Mary,https://www.bbc.com/food/recipes/brandy_snaps_47363,1,6,23,5,2.4
+2,5,Mini pork pies,Paul,https://thegreatbritishbakeoff.co.uk/mini-pork-pies/,2,11,38,6,6.0
+2,6,Chocolate Roulade,Mary,https://www.bbc.com/food/recipes/chocolate_roulade_79152,1,6,23,5,2.6
+2,7,Iced Fingers,Paul,https://www.bbc.com/food/recipes/iced_fingers_34133,3,11,16,4,4.2
+2,8,Sachertorte,Mary,https://www.bbc.com/food/recipes/sachertorte_59630,2,10,22,8,4.4
+3,1,Rum Baba,Paul,https://www.bbc.com/food/recipes/rum_babas_served_with_48561,3,13,33,4,5.2
+3,2,8 strand plaited loaf,Paul,https://www.bbc.com/food/recipes/eight-strand_plaited_57815,1,5,21,3,2.4
+3,3,Treacle Tart,Mary,https://www.bbc.com/food/recipes/mary_berrys_treacle_tart_28524,2,6,24,4,2.4
+3,4,Crème Caramel,Mary,https://www.bbc.com/food/recipes/classic_crme_caramel_44792,2,7,21,6,3.0
+3,5,Hand Raised Pie,Paul,https://www.bbc.com/food/recipes/hand-raised_chicken_and_12433,2,13,30,4,5.4
+3,6,Queen of Puddings,Mary,https://www.bbc.com/food/recipes/queen_of_puddings_79904,3,7,20,2,3.0
+3,7,Jam Doughnuts,Paul,https://www.bbc.com/food/recipes/jam_doughnuts_90953,2,9,16,8,3.8
+3,8,Chocolate Teacakes,Paul,https://www.bbc.com/food/recipes/chocolate_marshmallow_60410,2,11,35,3,5.0
+3,9,Fraisier Cake,Mary,https://www.bbc.com/food/recipes/fraisier_cake_75507,4,13,59,6,7.0
+3,10,Fondant Fancies,Mary,https://www.bbc.com/food/recipes/fondant_fancies_88368,4,13,30,6,6.4
+4,1,Angel Food Cake,Mary,https://www.bbc.com/food/recipes/angel_food_cake_with_04002,3,10,28,10,5.0
+4,2,English Muffins,Paul,https://www.bbc.com/food/recipes/english_muffins_56640,1,9,15,4,1.4
+4,3,Floating Islands,Mary,https://www.bbc.com/food/recipes/floating_islands_with_03517,3,6,22,9,4.4
+4,4,Egg Custard Tart,Paul,https://www.bbc.com/food/recipes/egg_custard_tarts_15352,2,8,20,5,3.2
+4,5,Tuiles,Mary,https://thegreatbritishbakeoff.co.uk/marys-tuiles-chocolate-mousse-technical-challenge/,2,9,36,6,4.4
+4,6,Apricot Couronne,Paul,https://thegreatbritishbakeoff.co.uk/paul-hollywoods-apricot-couronne-technical-challenge/,3,14,28,4,4.6
+4,7,Religieuse,Mary,https://thegreatbritishbakeoff.co.uk/mary-berrys-religieuses-technical-challenge/,4,11,36,4,5.0
+4,8,Dacqouise,Mary,https://thegreatbritishbakeoff.co.uk/mary-berrys-hazelnut-dacquoise/,4,12,47,3,6.2
+4,9,Charlotte Royale,Mary,https://thegreatbritishbakeoff.co.uk/mary-berrys-charlotte-royale-technical-challenge/,4,14,43,10,8.6
+4,10,Pretzels,Paul,https://thegreatbritishbakeoff.co.uk/paul-hollywoods-pretzels-technical-challenge/,3,13,38,7,5.4
+5,1,Cherry Cake,Mary,http://www.pbs.org/food/recipes/cherry-cake/,2,9,12,4,2.2
+5,2,Florentines,Mary,https://www.bbc.com/food/recipes/marys_florentines_49833,1,9,16,13,3.4
+5,3,Ciabatta,Paul,https://www.bbc.com/food/recipes/easy_ciabatta_98431,1,4,17,6,2.0
+5,4,Tiramisu,Mary,https://www.bbc.com/food/recipes/tiramisu_cake_13686,3,12,37,5,4.8
+5,5,Mini pear pies,Paul,https://www.bbc.com/food/recipes/mini_pear_pies_77186,2,10,32,4,4.6
+5,6,Swedish princess cake,Mary,https://www.bbc.com/food/recipes/prinsesstrta_17336,6,18,53,5,8.4
+5,7,Kouign Amann,Paul,https://www.bbc.com/food/recipes/kouign_amann_09102,1,6,28,7,4.0
+5,8,Povitica,Paul,http://www.pbs.org/food/recipes/povitica/,3,14,30,8,6.8
+5,9,Schichttorte,Paul,https://www.bbc.com/food/recipes/_schichttorte_49934,3,14,31,5,6.2
+5,10,"Scones, Victoria Sandwich, Tarte Citron",Paul,,1,23,77,15,7.0
+6,1,Frosted Walnut Cake,Mary,https://thegreatbritishbakeoff.co.uk/mary-berrys-frosted-walnut-layer-cake-technical-challenge/,4,11,32,9,7.4
+6,2,Arlettes,Paul,https://thegreatbritishbakeoff.co.uk/pauls-arlettes-technical-challenge/,3,8,38,4,4.6
+6,3,Baguettes,Paul,https://thegreatbritishbakeoff.co.uk/pauls-baguettes-technical-challenge/,1,5,31,5,2.4
+6,4,Spanische Windtorte,Mary,https://thegreatbritishbakeoff.co.uk/spanish-windtorte-technical-challenge-recipe/,4,8,60,7,6.8
+6,5,Gluten Free Pitas,Paul,https://thegreatbritishbakeoff.co.uk/pauls-gluten-free-pitta-bread-technical-challenge/,1,9,27,9,5.4
+6,6,Flaounes,Paul,https://thegreatbritishbakeoff.co.uk/pauls-flaounas-technical-challenge/,3,18,36,6,7.0
+6,7,Tennis Cake,Mary,https://thegreatbritishbakeoff.co.uk/marys-tennis-cake-technical-challenge/,4,17,68,2,7.4
+6,8,Mokatines,Mary,https://thegreatbritishbakeoff.co.uk/marys-mokatines-technical-challenge/,4,12,46,5,7.4
+6,9,Chocolate Souffle,Mary,https://thegreatbritishbakeoff.co.uk/marys-hot-chocolate-souffle/,2,9,22,7,3.4
+6,10,Raspberry Mille Feuille,Paul,https://www.bbc.com/food/recipes/raspberry_millefeuille_60382,5,10,41,8,7.4
+7,1,Jaffa cakes,Mary,https://thegreatbritishbakeoff.co.uk/marys-jaffa-cakes-technical-challenge/,3,8,16,5,3.4
+7,2,Viennese Whirls,Mary,https://thegreatbritishbakeoff.co.uk/marys-viennese-whirls/,3,7,19,4,3.4
+7,3,Dampfnudel,Paul,https://thegreatbritishbakeoff.co.uk/paul-hollywoods-dampfnudel-technical-challenge/,4,15,30,3,5.8
+7,4,Lace Pancakes,Paul,https://thegreatbritishbakeoff.co.uk/pauls-lacy-pancakes-technical-challenge/,1,5,15,7,3.4
+7,5,Bakewell tart,Mary,https://thegreatbritishbakeoff.co.uk/marys-bakewell-tart-technical-challenge/,4,11,25,3,4.2
+7,6,Fougasses,Paul,https://thegreatbritishbakeoff.co.uk/pauls-herby-fougasse-technical-challenge/,1,11,22,11,4.8
+7,7,Marjolaine ,Mary,https://thegreatbritishbakeoff.co.uk/marys-marjolaine-cake-technical-challenge/,5,14,39,14,8.4
+7,8,Jumbles,Paul,https://thegreatbritishbakeoff.co.uk/pauls-jumbles-technical-challenge/,2,8,15,5,2.2
+7,9,Savarin,Paul,https://thegreatbritishbakeoff.co.uk/pauls-savarin/,6,16,34,8,7.0
+7,10,Victoria Sandwiches,Mary,,2,9,25,5,3.2
+8,1,Chocolate mini rolls,Prue,https://thegreatbritishbakeoff.co.uk/prues-chocolate-mini-rolls/,3,10,32,9,6.6
+8,2,Fortune cookies,Paul,https://thegreatbritishbakeoff.co.uk/pauls-fortune-cookies/,3,11,24,7,4.4
+8,3,Cottage loaf,Paul,https://thegreatbritishbakeoff.co.uk/classic-cottage-loaf/,1,5,28,11,4.6
+8,4,Stroopwafel,Prue,https://thegreatbritishbakeoff.co.uk/prues-stroopwafels/,2,11,18,12,5.6
+8,5,Molten Chocolate Puddings,Paul,https://thegreatbritishbakeoff.co.uk/pauls-molten-puddings/,1,8,11,8,3.2
+8,6,Pasteis de Nata,Paul,https://thegreatbritishbakeoff.co.uk/pauls-pasteis-de-nata/,2,9,29,11,5.4
+8,7,Pizza Margherita,Prue,https://thegreatbritishbakeoff.co.uk/prues-pizza-margherita/,3,12,24,3,3.8
+8,8,Rum nicky,Paul,https://thegreatbritishbakeoff.co.uk/pauls-cumberland-rum-nicky/,3,11,20,4,4.6
+8,9,Les Miserables slices,Prue,https://thegreatbritishbakeoff.co.uk/les-miserables/,4,18,49,8,9.0
+8,10,Ginger Biscuits,Prue,https://thegreatbritishbakeoff.co.uk/prues-iced-ginger-biscuits/,2,14,28,11,5.8
+9,1,Wagon Wheels,Paul,https://thegreatbritishbakeoff.co.uk/wagon-wheels-biscuits/,3,12,33,8,5.8
+9,2,Le gateau vert,Prue,https://thegreatbritishbakeoff.co.uk/le-gateau-vert/,4,14,35,13,8.6
+9,3,Naan,Paul,https://thegreatbritishbakeoff.co.uk/naan-bread-with-garlic-ghee/,2,10,20,9,3.8
+9,4,Raspbert blacmange and Langues de Chat,Prue,https://thegreatbritishbakeoff.co.uk/raspberry-blancmange/,2,17,35,16,8.0
+9,5,Ma'amoul,Paul,https://thegreatbritishbakeoff.co.uk/pauls-maamoul/,3,15,25,8,6.2
+9,6,Puits d'amour,Prue,https://thegreatbritishbakeoff.co.uk/prues-puits-damour/,4,15,46,6,7.0
+9,7,Vegan pavlova,Prue,https://thegreatbritishbakeoff.co.uk/vegan-tropical-pavlova/,5,18,29,11,8.4
+9,8,Aebleskiver,Paul,https://thegreatbritishbakeoff.co.uk/aebleskiver/,3,16,29,15,7.2
+9,9,Torta Setteveli,Prue,https://thegreatbritishbakeoff.co.uk/torta-setteveli/,8,14,65,18,9.6
+9,10,Campfire Pita breads with dips,Paul,https://thegreatbritishbakeoff.co.uk/pauls-campfire-pitta-breads/,5,29,44,7,8.6
