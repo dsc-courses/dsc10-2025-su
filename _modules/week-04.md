@@ -31,7 +31,8 @@
           - name: DISC 5
             type: disc
             title: Sampling, Bootstrapping, and Confidence Intervals
-            url: https://practice.dsc10.com/disc06/index.html
+            url: https://practice.dsc10.com/disc05/index.html
+            slides: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=discussion/disc05/disc05.ipynb
           - name: LAB 4
             type: lab 
             title: Simulation, Sampling, and Bootstrapping
