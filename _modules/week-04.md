@@ -51,8 +51,8 @@
           - name: LEC 18 
             type: lecture
             title: Choosing Sample Sizes, Statistical Models
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec19/lec19.ipynb
-            # html: resources/lectures/lec19/lec19.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec18/lec19.ipynb
+            html: resources/lectures/lec18/lec18.html
             readings: 
               - name: CIT 14.6
                 url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
@@ -68,8 +68,8 @@
           - name: LEC 19 
             type: lecture
             title: Hypothesis Testing
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec20/lec20.ipynb
-            # html: resources/lectures/lec20/lec20.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec19/lec20.ipynb
+            html: resources/lectures/lec19/lec19.html
             readings: 
               - name: CIT 11.3
                 url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
