@@ -15,6 +15,7 @@
             title: Confidence Intervals, Center, and Spread
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec15/lec16.ipynb
             html: resources/lectures/lec15/lec15.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/5
             readings: 
               - name: CIT 13.3-13.4
                 url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
@@ -24,6 +25,7 @@
             title: Standardization and the Normal Distribution
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec16/lec17.ipynb
             html: resources/lectures/lec16/lec16.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/5
             readings: 
               - name: CIT 14.2-14.3
                 url: https://inferentialthinking.com/chapters/14/2/Variability.html
@@ -44,6 +46,7 @@
             title: The Central Limit Theorem
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec17/lec18.ipynb
             html: resources/lectures/lec17/lec17.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/12
             readings: 
               - name: CIT 14.4-14.5
                 url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
@@ -53,6 +56,7 @@
             title: Choosing Sample Sizes, Statistical Models
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec18/lec19.ipynb
             html: resources/lectures/lec18/lec18.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/12
             readings: 
               - name: CIT 14.6
                 url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
@@ -77,8 +81,8 @@
           - name: LEC 20
             type: lecture
             title: Hypothesis Testing and Total Variation Distance
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec21/lec21.ipynb
-            # html: resources/lectures/lec21/lec21.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec20/lec21.ipynb
+            html: resources/lectures/lec20/lec20.html
             readings: 
               - name: CIT 11.2
                 url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
