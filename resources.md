@@ -35,6 +35,7 @@ These resources will directly complement the content from lectures and assignmen
 - [DSC 10 Reference Sheet (handy summary)](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)
 - [`babypandas` notes](https://notes.dsc10.com)
 - [`babypandas` Documentation](https://babypandas.readthedocs.io/en/latest/index.html)
+- [`babypandas` and Python](/resources/resources/Babypandas%20and%20Python.html)
 - [PandasTutor, a DataFrame visualization tool](https://pandastutor.com/vis.html)
 
 ### Python Extra Practice
