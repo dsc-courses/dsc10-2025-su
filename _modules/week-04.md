@@ -74,6 +74,7 @@
             title: Hypothesis Testing
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec19/lec20.ipynb
             html: resources/lectures/lec19/lec19.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/6
             readings: 
               - name: CIT 11.3
                 url: https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
@@ -83,6 +84,7 @@
             title: Hypothesis Testing and Total Variation Distance
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec20/lec21.ipynb
             html: resources/lectures/lec20/lec20.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/6
             readings: 
               - name: CIT 11.2
                 url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
@@ -92,7 +94,7 @@
           - name: DISC 6
             type: disc
             title: Standardization, the Normal Distribution, and the Central Limit Theorem
-            # url: https://practice.dsc10.com/disc07/index.html
+            url: https://practice.dsc10.com/disc07/index.html
           - name: LAB 5
             type: lab
             title: Variability and the Normal Distribution

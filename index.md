@@ -32,7 +32,7 @@ We have a busy week in DSC 10. See [Ed](https://edstem.org/us/courses/60685/disc
 The Midterm Exam is this Thursday, July 18 from 11-11:50AM in Mosaic 0204, our usual lecture time and room. Details on logistics, format, etc can be found [on Ed](https://edstem.org/us/courses/60685/discussion/5105021). -->
 
 
-[Jump to the current week](#week-4-confidence-intervals-bootstrapping-and-the-normal-distribution){: .btn }
+[Jump to the current week](#week-5-hypothesis-testing-prediction-and-review){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
