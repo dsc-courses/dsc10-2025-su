@@ -13,8 +13,8 @@
           - name: LEC 21
             type: lecture
             title: TVD, Hypothesis Testing, and Permutation Testing
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec22/lec22.ipynb
-            # html: resources/lectures/lec22/lec22.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec21/lec22.ipynb
+            html: resources/lectures/lec21/lec21.html
             readings: 
               - name: CIT 12.0-12.1
                 url: https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html
@@ -22,8 +22,8 @@
           - name: LEC 22
             type: lecture
             title: Permutation Testing
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec23/lec23.ipynb
-            # html: resources/lectures/lec23/lec23.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec22/lec23.ipynb
+            html: resources/lectures/lec22/lec22.html
             readings: 
               - name: CIT 12.3
                 url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
@@ -36,8 +36,8 @@
           - name: LEC 23
             type: lecture
             title: Correlation
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec24/lec24.ipynb
-            # html: resources/lectures/lec24/lec24.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec23/lec24.ipynb
+            html: resources/lectures/lec23/lec23.html
             readings:  
               - name: CIT 15.0-15.2
                 url: https://inferentialthinking.com/chapters/15/Prediction.html
@@ -45,8 +45,8 @@
           - name: LEC 24
             type: lecture
             title: Regression and Least Squares
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec25/lec25.ipynb
-            # html: resources/lectures/lec25/lec25.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec24/lec25.ipynb
+            html: resources/lectures/lec24/lec24.html
             readings: 
               - name: CIT 15.2-15.4
                 url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
