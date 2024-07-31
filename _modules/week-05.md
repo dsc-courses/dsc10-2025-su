@@ -99,4 +99,5 @@
           - name: SUR
             type: survey
             title: SETs and End of Quarter Survey
+            url: https://docs.google.com/forms/d/e/1FAIpQLSezC2s0HyH4TaG3KvH3B2yGR7Qy4Nu4rVc3So5qPFhgAUpMbA/viewform
 ---
