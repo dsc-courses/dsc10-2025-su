@@ -15,6 +15,7 @@
             title: TVD, Hypothesis Testing, and Permutation Testing
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec21/lec22.ipynb
             html: resources/lectures/lec21/lec21.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/7
             readings: 
               - name: CIT 12.0-12.1
                 url: https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html
@@ -24,6 +25,7 @@
             title: Permutation Testing
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec22/lec23.ipynb
             html: resources/lectures/lec22/lec22.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/7
             readings: 
               - name: CIT 12.3
                 url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
@@ -40,6 +42,7 @@
             title: Correlation
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec23/lec24.ipynb
             html: resources/lectures/lec23/lec23.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/13
             readings:  
               - name: CIT 15.0-15.2
                 url: https://inferentialthinking.com/chapters/15/Prediction.html
@@ -49,6 +52,7 @@
             title: Regression and Least Squares
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec24/lec25.ipynb
             html: resources/lectures/lec24/lec24.html
+            podcast: https://podcast.ucsd.edu/watch/s124/dsc10_a00/13
             readings: 
               - name: CIT 15.2-15.4
                 url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
