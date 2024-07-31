@@ -62,8 +62,8 @@
           - name: LEC 25
             type: lecture
             title: Residuals and Inference
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec26/lec26.ipynb
-            # html: resources/lectures/lec26/lec26.html
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=lectures/lec25/lec26.ipynb
+            html: resources/lectures/lec25/lec25.html
             readings: 
               - name:  CIT 15.5-16.3
                 url: https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
