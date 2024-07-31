@@ -31,6 +31,8 @@
           - name: DISC 7
             type: disc
             title: Hypothesis Testing, Total Variation Distance, and Permutation Testing
+            url: https://practice.dsc10.com/disc07/index.html
+            slides: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-su&subPath=discussion/disc07/disc07.ipynb
       - date: 2024-7-31
         events: 
           - name: LEC 23
@@ -97,4 +99,5 @@
           - name: SUR
             type: survey
             title: SETs and End of Quarter Survey
+            url: https://docs.google.com/forms/d/e/1FAIpQLSezC2s0HyH4TaG3KvH3B2yGR7Qy4Nu4rVc3So5qPFhgAUpMbA/viewform
 ---
