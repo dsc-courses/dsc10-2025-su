@@ -94,7 +94,7 @@
           - name: DISC 6
             type: disc
             title: Standardization, the Normal Distribution, and the Central Limit Theorem
-            url: https://practice.dsc10.com/disc07/index.html
+            url: https://practice.dsc10.com/disc06/index.html
           - name: LAB 5
             type: lab
             title: Variability and the Normal Distribution

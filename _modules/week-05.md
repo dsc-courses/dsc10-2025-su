@@ -80,7 +80,7 @@
             # html: resources/lectures/lec28/lec28.html
           - name: DISC 8
             type: disc
-            title: Regression and Exam Review
+            title: Regression
             # url: https://practice.dsc10.com/disc10/index.html
           - name: PROJ
             type: proj
