@@ -16,6 +16,8 @@ nav_order: 1
 
 {: .success }
 >The Final Exam is **this Saturday, August 3rd from 11:30-2:30PM** in Mosaic 0204.
+> 
+> Our final review session will be held Friday, Aug 2nd, 12-2PM in HDSI 123 and at this [Zoom link](https://ucsd.zoom.us/j/91582761222?pwd=GkOIDavqvnTOb4Z5ixRQLNO1Z9hawe.1).
 >
 >If at least 75% of the class fills out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/VKnJsw2JSHixkUDW6), then the entire class will have **1% of extra credit added to their overall grade**. The deadline is Saturday, August 3rd at 8AM.
 
