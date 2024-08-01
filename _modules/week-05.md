@@ -90,7 +90,7 @@
         events: 
           - name: REV 2
             type: review
-            title: Final Exam Review (in HDSI MPR)
+            title: Final Exam Review (in HDSI 123 and on Zoom)
           - name: LAB 7
             type: lab
             title: Regression
