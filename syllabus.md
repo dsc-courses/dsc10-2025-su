@@ -405,7 +405,7 @@ The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
-| Lab Assignments | 15% | drop lowest score |
+| Lab Assignments | 20% | drop lowest score |
 | Homework Assignments | 30% | 5% each, lowest score replaced by quiz |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
