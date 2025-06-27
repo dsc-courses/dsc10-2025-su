@@ -1,9 +1,9 @@
 ---
-name: Nishant Kheterpal
+name: Samantha (Sam) Chen
 role: Instructor
-pronouns: he/him/his
-email: nkheterpal@ucsd.edu
-website: https://nishant.page
+pronouns: she/her/hers
+email: sac003@ucsd.edu
+website: chens5.github.io
 photo: assets/staff-images/su24/nishant.jpg
-lecture: TuTh 11AM-12:50PM <a href="https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main">Mosaic 0204</a>, W 11AM-12:50PM <a href="https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share">Mandeville Hall B-104 </a>
+lecture: MWThF 9:30AM-10:50AM </a>
 ---
