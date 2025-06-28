@@ -11,7 +11,7 @@ import numpy as np
 # Edit these variables before running script
 CSV_PATH = "Lecture Schedule – DSC 10, Spring 2024.csv"
 DATE_FORMAT = "DATE MONTH/DAY"
-YEAR = 2024
+YEAR = 2025
 START_FROM_WEEK = 1 #only future weeks!
 
 
@@ -134,6 +134,7 @@ def write_week(i, dest="../_modules", write=True):
                 links_list = links.split(", ")
                 num_readings = len(readings_list)
                 for j in range(num_readings):
+                    print(j)
                     combined += "["+readings_list[j]+"]("+links_list[j]+")"
                     if j < num_readings - 1:
                         combined += ", "
@@ -199,7 +200,8 @@ def write_week(i, dest="../_modules", write=True):
         return outstr
 
 
-for i in range(START_FROM_WEEK, 11):
+for i in range(START_FROM_WEEK, 5):
+    print(i)
     write_week(i)
 
 
