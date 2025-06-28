@@ -29,21 +29,21 @@ days:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
 
-      - date: 2025-07-17
-        events:
-          - name: LEC 10
-            type: lecture
-            title: Confidence Intervals, Center and Spread, Midterm Review
-            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec10/lec10.ipynb
-            html: resources/lectures/lec10/lec10.html
-            podcast:
-            # readings:
-            #   - name: BPD 1-6
-            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+    - date: 2025-07-17
+      events:
+        - name: LEC 10
+          type: lecture
+          title: Confidence Intervals, Center and Spread, Midterm Review
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec10/lec10.ipynb
+          html: resources/lectures/lec10/lec10.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
 
-      - date: 2025-07-18
-        events:
-          - name: EXAM
-            type: exam
-            title: <b>Midterm Exam covers Lectures ?</b>
+    - date: 2025-07-18
+      events:
+        - name: EXAM
+          type: exam
+          title: <b>Midterm Exam covers Lectures ?</b>
 ---
