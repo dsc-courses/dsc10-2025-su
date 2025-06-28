@@ -1,21 +1,52 @@
 ---
-    title: Week 2 – Data Visualization and Probability
-    weekNumber: 2
-    days:
-      - date: 2025-07-07
-        events:
-          "**LEC 4**{: .label .label-lecture } Data Visualization and Distributions":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index </span></i></small>":
-      - date: 2025-07-09
-        events:
-          "**LEC 5**{: .label .label-lecture } Histograms, Functions, and Applying":
-      - date: 2025-07-10
-        events:
-          "**LEC 6**{: .label .label-lecture } Grouping on Multiple Columns, Merging, Conditional Statements and Iteration":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation </span></i></small>":
-      - date: 2025-07-11
-        events:
-          "**LEC 7**{: .label .label-lecture } Probability":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .groupby, numerical vs. categorical, scatter plot, line plot, bar chart </span></i></small>":
-          "**QUIZ 1**{: .label .label-quiz } Quiz 1 covers Lectures 1-4":
+title: Week 2 – Data Visualization and Probability
+weekNumber: 2
+days:
+    - date: 2025-07-07
+      events:
+        - name: LEC 4
+          type: lecture
+          title: Data Visualization and Distributions
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec03/lec03.ipynb
+          html: resources/lectures/lec04/lec04.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: QUIZ 1
+          type: quiz
+          title: Quiz 1 covers Lectures ?
+    - date: 2025-07-09
+      events:
+        - name: LEC 5
+          type: lecture
+          title: Histograms, Functions, and Applying
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec05/lec05.ipynb
+          html: resources/lectures/lec05/lec05.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+    - date: 2025-07-10
+      events:
+        - name: LEC 6
+          type: lecture
+          title: Grouping on Multiple Columns, Merging, Conditional Statements and Iteration
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec06/lec06.ipynb
+          html: resources/lectures/lec06/lec06.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+    - date: 2025-07-11
+      events:
+        - name: LEC 7
+          type: lecture
+          title: Probability
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec07/lec07.ipynb
+          html: resources/lectures/lec07/lec07.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
 ---

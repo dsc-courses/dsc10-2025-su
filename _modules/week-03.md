@@ -1,20 +1,49 @@
 ---
-    title: Week 3 – Simulation, Sampling, Confidence Intervals, Midterm
-    weekNumber: 3
-    days:
-      - date: 2025-07-14
-        events:
-          "**LEC 8**{: .label .label-lecture } Simulation, Distributions and Sampling":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distributions, density histograms, binning, total area, overlaid plots </span></i></small>":
-      - date: 2025-07-16
-        events:
-          "**LEC 9**{: .label .label-lecture } Distributions and Sampling continued, bootstrapping and confidence":
-          "**HW 1**{: .label .label-hw } **Basic Python, Arrays, and DataFrames**":
+title: Week 3 – Simulation, Sampling, Confidence Intervals, Midterm
+weekNumber: 3
+days:
+    - date: 2025-07-14
+      events:
+        - name: LEC 8
+          type: lecture
+          title: Simulation, Distributions and Sampling
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec08/lec08.ipynb
+          html: resources/lectures/lec08/lec08.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: QUIZ 2
+          type: quiz
+          title: Quiz 2 covers Lectures ?
+
+    - date: 2025-07-16
+      events:
+        - name: LEC 9
+          type: lecture
+          title: Distributions and Sampling Continued, Bootstrapping and Confidence
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec09/lec09.ipynb
+          html: resources/lectures/lec09/lec09.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+
       - date: 2025-07-17
         events:
-          "**LEC 10**{: .label .label-lecture } Confidence intervals, center and spread, Midterm review":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> functions, arguments, print vs. return, .apply, .reset_index </span></i></small>":
+          - name: LEC 10
+            type: lecture
+            title: Confidence Intervals, Center and Spread, Midterm Review
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec10/lec10.ipynb
+            html: resources/lectures/lec10/lec10.html
+            podcast:
+            # readings:
+            #   - name: BPD 1-6
+            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+
       - date: 2025-07-18
         events:
-          "**LEC 11**{: .label .label-lecture } Midterm!":
+          - name: EXAM
+            type: exam
+            title: <b>Midterm Exam covers Lectures ?</b>
 ---
