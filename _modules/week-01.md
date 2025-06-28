@@ -4,17 +4,40 @@
     days:
       - date: 2025-06-30
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction, Expressions, and Data Types":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> data science, course structure, policies, syllabus, Little Women demo </span></i></small>":
+          - name: LEC 1
+            type: lecture
+            title: Introduction, Expressions, and Data Types
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec01/lec01.ipynb
+            html: resources/lectures/lec01/lec01.html
+            podcast:
+            readings:
+              - name: CIT 1.0-1.3
+                url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
+            #keywords: data science, course structure, policies, syllabus, Little Women demo
       - date: 2025-07-02
         events:
-          "**LEC 2**{: .label .label-lecture } Strings, String methods, Lists, and Arrays":
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Jupyter notebooks, expressions, variables, assignment, functions, int, float </span></i></small>":
+          - name: LEC 2
+            type: lecture
+            title: Strings, String Methods, Lists, and Arrays
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec02/lec02.ipynb
+            html: resources/lectures/lec02/lec02.html
+            podcast:
+            readings:
+              - name: BPD 1-6
+                url: https://notes.dsc10.com/01-getting_started/tools.html
+            # keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
       - date: 2025-07-03
         events:
-          "**LEC 3**{: .label .label-lecture } DataFrames, Indexing, Queries, Intro to Grouping":
+          - name: LEC 3
+            type: lecture
+            title: DataFrames, Indexing, Queries, Intro to Grouping
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec02/lec03.ipynb
+            html: resources/lectures/lec03/lec03.html
+            podcast:
+            readings:
+              - name: BPD 1-6
+                url: https://notes.dsc10.com/01-getting_started/tools.html
       - date: 2025-07-04
         events:
-          
-          "Fourth of July!":
+          - markdown_content: <b>No Lecture (Fourth of July!🎆)</b>
 ---
