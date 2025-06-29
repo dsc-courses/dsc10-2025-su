@@ -47,17 +47,13 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 There is one lecture section:
 
-- Tuesday 11AM-12:50PM in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
-- Wednesday 11AM-12:50PM in [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
-- Thursday 11AM-12:50PM in [Mosaic 0204](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/576556?s/MOS_Main)
+- Monday/Wednesday/Thursday/Friday 9:30am-10:50am in person in [Cognitive Science Building](https://maps.app.goo.gl/i2u6aPP2HXz1QMim6)
 
-Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
+Lecture is meant to introduce you to the main concepts of the course. Attendance on zoom or in-person accounts for a 2% participation grade. In order to get the 2%, you must attend at least 14 lectures throughout the term. If you filled out the (pre-course survey)[https://forms.gle/7bjV9Hkh3qFi1jiu7] *before 07/02*, you need to attend 13 lectures throughout the term. There is **no** partial credit for the participation grade. It is strongly encouraged to attend all lectures as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
 
-**Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
+**Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available directly on the course homepage; you can access these by clicking the podcast button with the 🎥 emoji.
 
-We will also link recordings directly on the course homepage; you can access these by clicking the podcast button with the 🎥 emoji.
-
-### Discussion
+<!-- ### Discussion
 
 There is one discussion section, which will immediately follow lecture on Tuesdays and Thursdays:
 
@@ -68,18 +64,17 @@ Discussion section starts in Week 1. The first discussion includes some useful i
 
 Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams.
 
-**Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
+**Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits. -->
 
-<!-- {: .warning }
-**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.** -->
+{: .warning }
+**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture for oral quizzes which we will elaborate on below.**
 
-### Quiz/Work Sessions
+### Quizzes
 
-All students enrolled are assigned to a lab section (listed as LA on WebReg and the Schedule of Classes). This is a two-hour block on Wednesdays following lecture that you should have reserved for this class. We will use this time on July 10 to administer one quiz. During the other four weeks of the summer session, we will set this time aside as a working session where staff will be present to help with lab and homework. See the [Quizzes](#quizzes) section of the syllabus for more information.
-
-The quiz/work session will take place directly after lecture Wednesday in the same room, after a half-hour break:
-
-- Wednesday 1:30PM-3:20PM in [Mandeville B-104](https://map.concept3d.com/?id=1005#!ce/17962?ct/18312,63891,65653?m/232275?s/mandeville?mc/32.878890137483424,-117.239418?z/18?lvl/0?share)
+All students enrolled are also assigned to both a lab section (1pm-3pm) and a discussion section (3pm-5pm) on Monday (listed as LA and DI on the Schedule of Classes). However, instead of using the Monday 1pm-5pm block of the schedule for lab/discussion sections, we will be having 4 oral quizzes in this course. They make up 8% of your grade and are pass/fail.
+- You will meet with either me or Ashley for 5 minutes each Monday (starting next Monday). Sign up for times [here](https://docs.google.com/spreadsheets/d/12Usm-RALjDbb5fpWBigjyDS4Z9FWnqBmuxm_S6MNdbc/edit?usp=sharing) and indicate whether you will be on zoom or in-person. To get through all students, we have blocked out 1pm-3:30pm for oral quizzes. From 3:30pm-5:00pm, I plan on holding office hours online. 
+- We will ask one question about topics covered in the previous week. 
+- You can make mistakes while answering and still pass! The important thing is for us to hear your thought process for problem solving. 
 
 ### Office Hours
 
@@ -127,16 +122,13 @@ us if you have any concerns about access to technology. Most students bring a co
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
-- **Ed:** We'll be using Ed as our course message and
+- **Campuswire:** We'll be using Campuswire as our course message and
   discussion board. More details are in the [Communication](#-communication)
   section below.
-  If you didn't already get an invitation, [join here](https://edstem.org/us/courses/60685/discussion/).
+  If you didn't already get an invitation, [join here]().
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/803402). This is where all of
-
-  Gradescope. This is where all of
-  your grades will live as well. You will be automatically added to Gradescope within 24 hours of enrolling in the course.
+  [Gradescope](https://www.gradescope.com/courses/803402). This is where all of your grades will live as well. You will be automatically added to Gradescope.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
   DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
@@ -144,14 +136,14 @@ additional platforms that you'll need to access:
   will show you how to use it in class.
 
 Make sure you can access all three sites ASAP. It's a good idea to bookmark
-them, too (though they're all linked at the top of this website).
+them, too (though they're all linked at the top of this website). I will be available today during our lab/discussion block in HDSI 432 (for those of you in-person) and on zoom (for those of you online). 
 
 {: .warning }
 **Note that we will not be using Canvas this quarter. You won't see this course on your Canvas at all. In addition, please do not contact the staff through Canvas – we won't be able to read it!**
 
 ### Welcome Survey
+Please fill out this short [welcome survey](https://forms.gle/eNLgJRHWfRct2Y4P9) at the start of quarter. This is required of all students. 
 
-Please fill out this short [Welcome Survey](https://forms.gle/Bn38JncLactj4oR57) at the start of the quarter. This is required of all students.
 
 ### Pretest
 
@@ -161,7 +153,7 @@ DSC 10’s only prerequisite is high school algebra. In order to gauge your prep
 
 ## 💬 Communication
 
-This quarter, we’ll be using Ed as our course message board.
+This quarter, we’ll be using Campuswire as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
@@ -174,8 +166,8 @@ that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
 strengthen your understanding of the material.
 
-Please use Ed **instead of email**, as this helps us keep all course-related
-communication in one place. In particular, don't send course staff questions about course content over email/social media – Ed is the place for that.
+Please use Campuswire **instead of email**, as this helps us keep all course-related
+communication in one place. In particular, don't send course staff questions about course content over email/social media – Campuswire is the place for that.
 
 ---
 
@@ -257,7 +249,7 @@ details.
 
 ### Projects
 
-This class has two projects, a Midterm Project and a Final Project. Projects
+This class has a final project. Projects
 are like more challenging homeworks. They are longer than a typical homework,
 and they require you to pull together ideas from previous weeks, rather than
 just the last week. Projects also give you a chance to explore a dataset
@@ -298,7 +290,7 @@ from Gradescope to verify that your submission was successful. Save this email
 until you receive your grade on the assignment, in case of any issues with your submission.
 
 Extension requests will be granted on a case-by-case basis; please
-[email Nishant directly](mailto:nkheterpal@ucsd.edu) (nkheterpal@ucsd.edu)
+[email Sam directly](mailto:sac003@ucsd.edu) (sac003@ucsd.edu)
 as soon as possible once you know that you may need an extension. The earlier we know that
 something has come up, the more we can help support you.
 
@@ -369,7 +361,7 @@ We will assess your knowledge of course material frequently through quizzes and 
 
 ### Exams
 
-This class has one Midterm Exam and one Final Exam:
+This class has one Midterm Exam and one Final Exam (both **online**):
 
 - Midterm Exam: Thursday, July 18, 11AM-12PM in Mosaic 0204.
 - Final Exam: Saturday, August 3, 11:30AM-2:30PM, location TBD.
