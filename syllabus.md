@@ -47,7 +47,7 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 There is one lecture section:
 
-- Monday/Wednesday/Thursday/Friday 9:30am-10:50am in person in [Cognitive Science Building](https://maps.app.goo.gl/i2u6aPP2HXz1QMim6)
+- Monday/Wednesday/Thursday/Friday 9:30am-10:50am in person in [Cognitive Science Building](https://maps.app.goo.gl/i2u6aPP2HXz1QMim6). The zoom room is [here](https://ucsd.zoom.us/j/97178497084?pwd=pv6DgQLlRPey6fHcUnYa9SCOobfiCQ.1) and you **must** be logged onto zoom via your UCSD credentials to join. There is also a password which was emailed you to at the start of the term. 
 
 Lecture is meant to introduce you to the main concepts of the course. Attendance on zoom or in-person accounts for a 2% participation grade. In order to get the 2%, you must attend at least 14 lectures throughout the term. If you filled out the (pre-course survey)[https://forms.gle/7bjV9Hkh3qFi1jiu7] *before 07/02*, you need to attend 13 lectures throughout the term. There is **no** partial credit for the participation grade. It is strongly encouraged to attend all lectures as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
 
