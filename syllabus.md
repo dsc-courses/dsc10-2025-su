@@ -47,9 +47,10 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 There is one lecture section:
 
-- Monday/Wednesday/Thursday/Friday 9:30am-10:50am in person in [Cognitive Science Building](https://maps.app.goo.gl/i2u6aPP2HXz1QMim6). The zoom room is [here](https://ucsd.zoom.us/j/97178497084?pwd=pv6DgQLlRPey6fHcUnYa9SCOobfiCQ.1) and you **must** be logged onto zoom via your UCSD credentials to join. There is also a password which was emailed you to at the start of the term. 
+- MWThF 9:30AM-10:50AM in [CSB 005](https://maps.app.goo.gl/i2u6aPP2HXz1QMim6). 
+- The Zoom room is [here](https://ucsd.zoom.us/j/97178497084?pwd=pv6DgQLlRPey6fHcUnYa9SCOobfiCQ.1) and you **must** be logged onto Zoom via your UCSD credentials to join. There is also a password which was emailed you to at the start of the term. 
 
-Lecture is meant to introduce you to the main concepts of the course. Attendance on zoom or in-person accounts for a 2% participation grade. In order to get the 2%, you must attend at least 14 lectures throughout the term. If you filled out the (pre-course survey)[https://forms.gle/7bjV9Hkh3qFi1jiu7] *before 07/02*, you need to attend 13 lectures throughout the term. There is **no** partial credit for the participation grade. It is strongly encouraged to attend all lectures as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
+Lecture is meant to introduce you to the main concepts of the course. Attendance either on Zoom or in-person accounts for a 2% participation grade. In order to get the 2%, you must attend at least 14 lectures throughout the term. If you fill out the [pre-course survey](https://forms.gle/7bjV9Hkh3qFi1jiu7) *before 07/02*, you need to attend 13 lectures throughout the term. There is **no** partial credit for the participation grade. It is strongly encouraged to attend all lectures as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. We're going to move _very fast_ in this summer offering of DSC 10—**twice** as fast as the regular class—so if you miss a lecture, it may be quite challenging to catch up.
 
 **Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available directly on the course homepage; you can access these by clicking the podcast button with the 🎥 emoji.
 
@@ -71,19 +72,19 @@ Subsequent discussion sections will be focused on quiz and exam preparation. Stu
 
 ### Quizzes
 
-All students enrolled are also assigned to both a lab section (1pm-3pm) and a discussion section (3pm-5pm) on Monday (listed as LA and DI on the Schedule of Classes). However, instead of using the Monday 1pm-5pm block of the schedule for lab/discussion sections, we will be having 4 oral quizzes in this course. They make up 8% of your grade and are pass/fail.
-- You will meet with either me or Ashley for 5 minutes each Monday (starting next Monday). Sign up for times [here](https://docs.google.com/spreadsheets/d/12Usm-RALjDbb5fpWBigjyDS4Z9FWnqBmuxm_S6MNdbc/edit?usp=sharing) and indicate whether you will be on zoom or in-person. To get through all students, we have blocked out 1pm-3:30pm for oral quizzes. From 3:30pm-5:00pm, I plan on holding office hours online. 
+All students enrolled are also assigned to both a lab section (1PM-3PM) and a discussion section (3PM-5PM) on Monday (listed as LA and DI on the Schedule of Classes). However, instead of using the Monday 1PM-5PM block of the schedule for lab/discussion sections, we will be having 4 oral quizzes in this course. They make up 8% of your grade and are pass/fail.
+- You will meet with either Sam or Ashley for 5 minutes each Monday starting Week 2. Sign up for times [here](https://docs.google.com/spreadsheets/d/12Usm-RALjDbb5fpWBigjyDS4Z9FWnqBmuxm_S6MNdbc/edit?usp=sharing) and indicate whether you will be on zoom or in-person. To get through all students, we have blocked out 1PM-3:30PPM for oral quizzes. From 3:30PM-5:00PM, Sam plans on holding office hours online. 
 - We will ask one question about topics covered in the previous week. 
 - You can make mistakes while answering and still pass! The important thing is for us to hear your thought process for problem solving. 
 
 ### Office Hours
 
 In order to provide you with help on assignments and concepts, the course staff
-will hold several office hours throughout the week, all of which will be held in-person. See the
+will hold several office hours throughout the week, both in-person and on Zoom. See the
 [Calendar](../calendar) tab of the course website for the most up-to-date schedule and instructions.
 
 {: .note }
-**We use the term "office hours" but really, office hours are held in a common room where you can come to work on assignments, meet your classmates, and get help from course staff. We don't bite and we would love to see you in office hours!**
+**We use the term "office hours" but really, office hours are held in a common room or on Zoom where you can come to work on assignments, meet your classmates, and get help from course staff. We don't bite and we would love to see you in office hours!**
 
 Office hours are your chance to ask for general help, clarification on
 assignments, and to review previous assignments. Our tutors have previously
@@ -136,7 +137,7 @@ additional platforms that you'll need to access:
   will show you how to use it in class.
 
 Make sure you can access all three sites ASAP. It's a good idea to bookmark
-them, too (though they're all linked at the top of this website). I will be available today during our lab/discussion block in HDSI 432 (for those of you in-person) and on zoom (for those of you online). 
+them, too (though they're all linked at the top of this website). Sam will be available Monday Week 1 during our lab/discussion block in HDSI 432 (for those of you in-person) and on Zoom (for those of you online). 
 
 {: .warning }
 **Note that we will not be using Canvas this quarter. You won't see this course on your Canvas at all. In addition, please do not contact the staff through Canvas – we won't be able to read it!**
@@ -157,11 +158,11 @@ This quarter, we’ll be using Campuswire as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
-question about data science — you can make a post on Ed. If your post
+question about data science — you can make a post on Campuswire. If your post
 includes any part of your solution to a problem (e.g. code), please make your
 post private; otherwise, please make your post public so that other students
 can benefit from the interaction. You can also post anonymously if you prefer.
-Course staff will regularly check Ed and try to answer any questions
+Course staff will regularly check Campuswire and try to answer any questions
 that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
 strengthen your understanding of the material.
@@ -255,7 +256,7 @@ and they require you to pull together ideas from previous weeks, rather than
 just the last week. Projects also give you a chance to explore a dataset
 in-depth, which can be a lot of fun!
 
-Project tests are like homework tests – the provided tests only check if your
+Project autograder tests are like homework autograder tests – the provided tests only check if your
 answers have the correct format, not if they are correct. You'll only be able to see
 your score on the project after the deadline, once all projects are submitted
 and the hidden correctness tests have been run.
@@ -361,22 +362,22 @@ We will assess your knowledge of course material frequently through quizzes and 
 
 ### Exams
 
-This class has one Midterm Exam and one Final Exam (both **online**):
+This class has one Midterm Exam and one Final Exam:
 
-- Midterm Exam: Thursday, July 18, 11AM-12PM in Mosaic 0204.
-- Final Exam: Saturday, August 3, 11:30AM-2:30PM, location TBD.
+- Midterm Exam: Friday, July 18, 9:30AM-10:50AM on Zoom.
+- Final Exam: Saturday, August 2, 8AM-11AM on Zoom.
 
-Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
+Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **online**.
 
 If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/Bn38JncLactj4oR57) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
-### Quizzes
+<!-- ### Quizzes
 
 Quizzes are a relatively new component of the course, introduced last quarter, to help students get more practice solving problems on-paper without a computer in front of them, as they'll need to do on exams. Quiz questions are meant to be more straightforward to than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam.
 
 We will have only one quiz, administered in the lab section on Wednesday, July 10. This quiz is designed to give you a low-stakes opportunity to practice solving problems on paper, with room for failure, as some practice before our midterm. The score from your quiz will replace your lowest assignment (lab or homework) score.
 
-We will not offer a makeup quiz. If you are sick, traveling, or otherwise need to miss the quiz, you have some flexibility because it replaces an assignment score.
+We will not offer a makeup quiz. If you are sick, traveling, or otherwise need to miss the quiz, you have some flexibility because it replaces an assignment score. -->
 
 ---
 
