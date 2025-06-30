@@ -16,7 +16,7 @@
           - name: QUIZ 3
             type: quiz
             title: Quiz 3 covers Lectures 8-10
-      - date: 2025-07-23
+      - date: 2025-07-22
         events:
           - name: LEC 13
             type: lecture
@@ -27,7 +27,7 @@
             # readings:
             #   - name: BPD 1-6
             #     url: https://notes.dsc10.com/01-getting_started/tools.html
-      - date: 2025-07-24
+      - date: 2025-07-23
         events:
           - name: LEC 14
             type: lecture

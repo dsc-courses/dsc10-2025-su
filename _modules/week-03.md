@@ -17,7 +17,7 @@ days:
           type: quiz
           title: Quiz 2 covers Lectures 4-7
 
-    - date: 2025-07-16
+    - date: 2025-07-15
       events:
         - name: LEC 9
           type: lecture
@@ -29,7 +29,7 @@ days:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
 
-    - date: 2025-07-17
+    - date: 2025-07-16
       events:
         - name: LEC 10
           type: lecture
