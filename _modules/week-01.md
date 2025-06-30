@@ -19,7 +19,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Strings, String Methods, Lists, and Arrays
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec01/lec01.ipynb
+        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec01/lec01.ipynb
         # html: resources/lectures/lec02/lec02.html
         podcast:
         # readings:
@@ -30,10 +30,6 @@ days:
         type: survey
         title: Welcome Survey
         url: https://forms.gle/FsxgiQsRoBkkKHhx9
-      - name: SUR
-        type: survey
-        title: Welcome Survey
-        url: 
   - date: 2025-07-03
     events:
       - name: LEC 3
