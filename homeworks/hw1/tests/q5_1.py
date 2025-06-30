@@ -1,0 +1,12 @@
+test = {   'name': 'q5_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(quirky_numbers, np.ndarray) and quirky_numbers.size == 5\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(quirky_numbers[0] * 10 ** 4 % 10 ** 3) == 958 # Something is wrong with the first element. Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(quirky_numbers[1] * 10 ** 3 % 10 ** 3) == 274 # Something is wrong with the second element. Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(quirky_numbers[2] * 10 % 10 ** 3) == 900 # Something is wrong with the third element. Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(quirky_numbers[3] * 10 ** 3 % 10 ** 3) == 339 # Something is wrong with the fourth element. Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(quirky_numbers[4] * 10 ** 3 % 10 ** 3) == 698 # Something is wrong with the last element. Try again!\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
