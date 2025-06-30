@@ -30,10 +30,6 @@ days:
         type: survey
         title: Welcome Survey
         url: https://forms.gle/FsxgiQsRoBkkKHhx9
-      - name: SUR
-        type: survey
-        title: Welcome Survey
-        url: 
   - date: 2025-07-02
     events:
       - name: LEC 3
