@@ -14,7 +14,7 @@ days:
           - name: CIT 1.0-1.3, BPD 1-6
             url: https://inferentialthinking.com/chapters/01/what-is-data-science.html, https://notes.dsc10.com/01-getting_started/tools.html
         keywords: data science, course structure, policies, syllabus, Little Women demo, variables, assignments, ints, floats
-  - date: 2025-07-02
+  - date: 2025-07-01
     events:
       - name: LEC 2
         type: lecture
@@ -34,7 +34,7 @@ days:
         type: survey
         title: Welcome Survey
         url: 
-  - date: 2025-07-03
+  - date: 2025-07-02
     events:
       - name: LEC 3
         type: lecture
