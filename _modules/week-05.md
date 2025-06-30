@@ -2,21 +2,56 @@
     title: Week 5 – Simulation, Sampling, and Confidence Intervals
     weekNumber: 5
     days:
-      - date: 2025-4-29
+      - date: 2025-07-28
         events:
-          "**LEC 13**{: .label .label-lecture } Distributions and Sampling":
-            "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> probability vs. empirical distribution, SRS, .sample, parameter, statistic </span></i></small>":
-      - date: 2025-4-30
+          - name: LEC 16
+            type: lecture
+            title: Permutation Testing Continued, Correlation
+            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec12/lec12.ipynb
+            # html: resources/lectures/lec12/lec12.html
+            podcast:
+            # readings:
+            #   - name: BPD 1-6
+            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+          - name: QUIZ 4
+            type: quiz
+            title: Quiz 3 covers Lectures 12-15
+      - date: 2025-07-30
         events:
-          
-          "**HW 3**{: .label .label-hw } **DataFrames, Control Flow, and Probability**":
-      - date: 2025-5-1
+          - name: LEC 17
+            type: lecture
+            title: Correlation Continued, Regression, and Least Squares
+            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec13/lec13.ipynb
+            # html: resources/lectures/lec13/lec13.html
+            podcast:
+            # readings:
+            #   - name: BPD 1-6
+            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+      - date: 2025-07-31
         events:
-          "**LEC 14**{: .label .label-lecture } Midterm Review":
-          "**DISC 5**{: .label .label-disc } **Probability and Simulation**":
-      - date: 2025-5-3
+          - name: LEC 18
+            type: lecture
+            title: Residuals and Inference
+            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec14/lec14.ipynb
+            # html: resources/lectures/lec14/lec14.html
+            podcast:
+            # readings:
+            #   - name: BPD 1-6
+            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+      - date: 2025-08-01
         events:
-          
-          "**EXAM**{: .label .label-exam } **Midterm Exam covers Lectures 1-12**":
+          - name: LEC 19
+            type: lecture
+            title: Final Review
+            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec15/lec15.ipynb
+            # html: resources/lectures/lec15/lec15.html
+            podcast:
+            # readings:
+            #   - name: BPD 1-6
+            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+      - date: 2025-08-02
+        events:
+          - name: EXAM
+            type: exam
+            title: <b>Final Exam (8AM to 11AM)</b>
 ---
