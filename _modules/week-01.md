@@ -9,7 +9,7 @@ days:
         title: Introduction, Expressions, and Data Types
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec00/lec00.ipynb
         html: resources/lectures/lec01/lec01.html
-        podcast: 
+        podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00
         readings:
           - name: CIT 1.0-1.3, BPD 1-6
             url: https://inferentialthinking.com/chapters/01/what-is-data-science.html, https://notes.dsc10.com/01-getting_started/tools.html
