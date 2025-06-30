@@ -142,7 +142,7 @@ them, too (though they're all linked at the top of this website). Sam will be av
 **Note that we will not be using Canvas this quarter. You won't see this course on your Canvas at all. In addition, please do not contact the staff through Canvas – we won't be able to read it!**
 
 ### Welcome Survey
-Please fill out this short [welcome survey](https://forms.gle/eNLgJRHWfRct2Y4P9) at the start of quarter. This is required of all students. 
+Please fill out this short [welcome survey](https://forms.gle/JYjPqURqVfEHSE1dA) at the start of quarter. This is required of all students. 
 
 
 ### Pretest
@@ -368,7 +368,7 @@ This class has one Midterm Exam and one Final Exam:
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **online**.
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/Bn38JncLactj4oR57) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/JYjPqURqVfEHSE1dA) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 <!-- ### Quizzes
 
