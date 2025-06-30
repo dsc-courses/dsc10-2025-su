@@ -44,14 +44,14 @@ days:
       - name: LAB 0
         type: lab
         title: Expressions and Data Types
-        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=labs/lab0/lab0.ipynb
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab0/lab0.ipynb
   - date: 2025-07-04
     events:
       - markdown_content: <b>No Lecture (Fourth of July 🎆)</b>
   - date: 2025-07-06
     events:
-      - name: HW 1
-        type: hw
-        title: Basic Python, Arrays, and DataFrames
-        #url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=homeworks/hw1/hw1.ipynb
+      - name: LAB 1
+        type: lab
+        title: Arrays and DataFrames
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab1/lab1.ipynb
 ---
