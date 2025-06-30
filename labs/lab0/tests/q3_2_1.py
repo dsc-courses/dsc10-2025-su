@@ -1,0 +1,11 @@
+test = {   'name': 'q3_2_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> seconds_in_a_day < 10 ** 10\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> seconds_in_a_day != 86400 # Oops! The number of seconds in a day is not quite that. It is somewhere between 86399 and 86401.\nFalse',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> seconds_in_a_day == 86400\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
