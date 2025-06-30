@@ -16,6 +16,10 @@ days:
         - name: QUIZ 1
           type: quiz
           title: Quiz 1 covers Lectures 1-3
+        - name: HW 1
+          type: hw
+          title: Basic Python, Arrays, and DataFrames
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw1/hw1.ipynb
     - date: 2025-07-08
       events:
         - name: LEC 5
