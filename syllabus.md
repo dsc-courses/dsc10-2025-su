@@ -420,9 +420,9 @@ autograder, please email Nishant. If you think there is a problem with how your 
 ### Letter Grades and Incompletes
 
 We will use a standard scale for assigning letter grades:
-| **Letter Grade** | A   | A- | B+ | B  | B- | C+ | C  | C- | D  | F        |
-|------------------|-----|----|----|----|----|----|----|----|----|----------|
-| **Percentage**   | 93+ | 90+| 87+| 83+| 80+| 77+| 73+| 70+| 60+| below 60 |
+
+| **Letter Grade** | A | A- | B+ | B | B- | C+ | C | C- | D | F |
+| **Percentage** | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 60+ | below 60  |
 
 A+ grades are given at the instructor's discretion. If you are taking the
 course P/NP, you will receive a grade of P if you meet the criteria for a C-
