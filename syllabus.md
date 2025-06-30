@@ -125,10 +125,10 @@ additional platforms that you'll need to access:
 - **Campuswire:** We'll be using Campuswire as our course message and
   discussion board. More details are in the [Communication](#-communication)
   section below.
-  If you didn't already get an invitation, [join here]().
+  If you didn't already get an invitation, [join here](https://campuswire.com/p/G61E081A3).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/803402). This is where all of your grades will live as well. You will be automatically added to Gradescope.
+  [Gradescope](https://www.gradescope.com/courses/803402). This is where all of your grades will live as well. You will be automatically added to Gradescope. 
 
 - **DataHub:** Assignments in this course will involve programming in Python.
   DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
@@ -383,11 +383,11 @@ We will not offer a makeup quiz. If you are sick, traveling, or otherwise need t
 ## 📆 Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
-schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
+schedule. **Please refer to the homepage of this website for the homework and lab deadlines.**
 
-| **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | | Lecture and Discussion | Lecture and Lab Session | Lecture and Discussion | | |
-| | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> (usually) | | |
+| **Sunday** | **Monday** | **Tuesday**               | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
+|------------|------------|---------------------------|---------------|--------------|------------|--------------|
+|            |      Lecture and oral quizzes      |   |      Lecture         |   Lecture    |  Lecture  |       |
 
 ---
 
@@ -396,13 +396,17 @@ schedule. Please refer to the homepage of this website for the most up-to-date s
 The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
-| **Component** | **Weight** | **Notes** |
-| Lab Assignments | 20% | drop lowest score |
-| Homework Assignments | 30% | 5% each, lowest score replaced by quiz |
-| Midterm Project | 10% | |
-| Midterm Exam | 10% | |
-| Final Project | 10% | |
-| Final Exam | 20% | |
+| **Component**             | **Weight** | **Notes**                                      |
+|---------------------------|-----------:|------------------------------------------------|
+| Lab Assignments           | 10%        | Drop lowest score                              |
+| Homework Assignments      | 30%        | 5 % each; lowest score replaced by quiz        |
+| Midterm Exam              | 15%        |                                                |
+| Final Project             | 10%        |                                                |
+| Final Exam                | 25%        |                                                |
+| Quizzes                   | 8%         |                                                |
+| Participation / Attendance| 2%         |                                                |
+
+
 
 Note that all assignments in each category will be worth the same amount,
 regardless of the number of points out of which they are graded.
@@ -416,9 +420,9 @@ autograder, please email Nishant. If you think there is a problem with how your 
 ### Letter Grades and Incompletes
 
 We will use a standard scale for assigning letter grades:
-
-| **Letter Grade** | A | A- | B+ | B | B- | C+ | C | C- | D | F |
-| **Percentage** | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 60+ | below 60 |
+| **Letter Grade** | A   | A- | B+ | B  | B- | C+ | C  | C- | D  | F        |
+|------------------|-----|----|----|----|----|----|----|----|----|----------|
+| **Percentage**   | 93+ | 90+| 87+| 83+| 80+| 77+| 73+| 70+| 60+| below 60 |
 
 A+ grades are given at the instructor's discretion. If you are taking the
 course P/NP, you will receive a grade of P if you meet the criteria for a C-
