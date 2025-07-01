@@ -41,10 +41,13 @@ days:
         # readings:
         #   - name: BPD 1-6
         #     url: https://notes.dsc10.com/01-getting_started/tools.html
+  - date: 2025-07-03
+    events:
       - name: LAB 0
         type: lab
         title: Expressions and Data Types
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab0/lab0.ipynb
+
   - date: 2025-07-04
     events:
       - markdown_content: <b>No Lecture (Fourth of July 🎆)</b>
