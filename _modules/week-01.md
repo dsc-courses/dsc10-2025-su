@@ -20,12 +20,12 @@ days:
         type: lecture
         title: Strings, String Methods, Lists, and Arrays
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec02/lec02.ipynb
-        # html: resources/lectures/lec02/lec02.html
+        html: resources/lectures/lec02/lec02.html
         podcast:
-        # readings:
-        #   - name: BPD 1-6
-        #     url: https://notes.dsc10.com/01-getting_started/tools.html
-        # keywords: Jupyter notebooks, expressions, variables, assignment, functions, int, float
+        readings:
+          - name: BPD 8-9
+            url: https://notes.dsc10.com/01-getting_started/tools.html
+        keywords: strings, lists, arrays
       - name: SUR
         type: survey
         title: Welcome Survey
