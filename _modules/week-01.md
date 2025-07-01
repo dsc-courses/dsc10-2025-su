@@ -35,8 +35,8 @@ days:
       - name: LEC 3
         type: lecture
         title: DataFrames, Indexing, Queries, Intro to Grouping
-        # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec02/lec03.ipynb
-        # html: resources/lectures/lec03/lec03.html
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec03/lec03.ipynb
+        html: resources/lectures/lec03/lec03.html
         podcast:
         # readings:
         #   - name: BPD 1-6
