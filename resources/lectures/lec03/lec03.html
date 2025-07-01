@@ -9430,7 +9430,7 @@ Name: Density, Length: 8, dtype: float64</pre>
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># We must specify the role of False by using ascending=, </span>
 <span class="c1"># otherwise Python does not know how to interpret this.</span>
-<span class="n">states</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span><span class="o">=</span><span class="s1">'Density'</span><span class="p">,</span> <span class="n">ascending</span> <span class="o">=</span> <span class="kc">False</span><span class="p">)</span>
+<span class="n">states</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span><span class="o">=</span><span class="s1">'Density'</span><span class="p">,</span> <span class="kc">False</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
@@ -9440,111 +9440,15 @@ Name: Density, Length: 8, dtype: float64</pre>
 <div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[22]:</div>
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
-<div>
-<style scoped="">
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-<thead>
-<tr style="text-align: right;">
-<th></th>
-<th>State</th>
-<th>Region</th>
-<th>Capital City</th>
-<th>Population</th>
-<th>Land Area</th>
-<th>Party</th>
-<th>Density</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>29</th>
-<td>New Jersey</td>
-<td>Northeast</td>
-<td>Trenton</td>
-<td>9288994</td>
-<td>7354</td>
-<td>Democratic</td>
-<td>1263.12</td>
-</tr>
-<tr>
-<th>38</th>
-<td>Rhode Island</td>
-<td>Northeast</td>
-<td>Providence</td>
-<td>1097379</td>
-<td>1034</td>
-<td>Democratic</td>
-<td>1061.29</td>
-</tr>
-<tr>
-<th>20</th>
-<td>Massachusetts</td>
-<td>Northeast</td>
-<td>Boston</td>
-<td>7029917</td>
-<td>7800</td>
-<td>Democratic</td>
-<td>901.27</td>
-</tr>
-<tr>
-<th>...</th>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-</tr>
-<tr>
-<th>25</th>
-<td>Montana</td>
-<td>West</td>
-<td>Helena</td>
-<td>1084225</td>
-<td>145546</td>
-<td>Republican</td>
-<td>7.45</td>
-</tr>
-<tr>
-<th>49</th>
-<td>Wyoming</td>
-<td>West</td>
-<td>Cheyenne</td>
-<td>576851</td>
-<td>97093</td>
-<td>Republican</td>
-<td>5.94</td>
-</tr>
-<tr>
-<th>1</th>
-<td>Alaska</td>
-<td>West</td>
-<td>Juneau</td>
-<td>733391</td>
-<td>570641</td>
-<td>Republican</td>
-<td>1.29</td>
-</tr>
-</tbody>
-</table>
-<p>50 rows × 7 columns</p>
-</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>
+<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">"/var/folders/2k/9mnd960x2j1d9b35wyjwwx200000gp/T/ipykernel_13708/2563070448.py"</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">3</span>
+<span class="ansi-red-fg">    states.sort_values(by='Density', False)</span>
+                                          ^
+<span class="ansi-red-fg">SyntaxError</span><span class="ansi-red-fg">:</span> positional argument follows keyword argument
+</pre>
 </div>
 </div>
 </div>
@@ -12484,7 +12388,7 @@ Name: Region, Length: 50, dtype: bool</pre>
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">KeyError</span>                                  Traceback (most recent call last)
-<span class="ansi-green-fg">/var/folders/2k/9mnd960x2j1d9b35wyjwwx200000gp/T/ipykernel_12614/3899766623.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/var/folders/2k/9mnd960x2j1d9b35wyjwwx200000gp/T/ipykernel_13708/3899766623.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>midwest_sorted<span class="ansi-blue-fg">.</span>get<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">'State'</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">.</span>iloc<span class="ansi-blue-fg">[</span><span class="ansi-cyan-fg">0</span><span class="ansi-blue-fg">]</span>
 
 <span class="ansi-green-fg">/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/babypandas/utils.py</span> in <span class="ansi-cyan-fg">wrapper</span><span class="ansi-blue-fg">(*args, **kwargs)</span>
