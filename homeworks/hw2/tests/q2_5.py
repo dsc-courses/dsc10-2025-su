@@ -1,0 +1,10 @@
+test = {   'name': 'q2_5',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> isinstance(games, bpd.DataFrame) and 'Plays' in games.columns and 'Wishlist' in games.columns\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> import numbers\n>>> isinstance(games.get('Plays').iloc[0], numbers.Integral) and isinstance(games.get('Wishlist').iloc[0], numbers.Integral)\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
