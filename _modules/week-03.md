@@ -16,6 +16,9 @@ days:
         - name: QUIZ 2
           type: quiz
           title: Quiz 2 covers Lectures 4-7
+        - name: LAB 3
+          type: lab
+          title: DataFrames, Control Flow, and Probability
 
     - date: 2025-07-15
       events:
@@ -28,6 +31,9 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: HW 3
+          type: hw
+          title: DataFrames, Control Flow, and Probability
 
     - date: 2025-07-16
       events:
@@ -40,6 +46,9 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: LAB 4
+          type: lab
+          title: Simulation, Sampling, Bootstrapping
 
     - date: 2025-07-18
       events:

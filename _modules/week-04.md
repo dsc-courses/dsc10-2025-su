@@ -16,6 +16,10 @@
           - name: QUIZ 3
             type: quiz
             title: Quiz 3 covers Lectures 8-10
+          - name: HW 4
+            type: hw
+            title: Simulation, Sampling, and Bootstrapping
+
       - date: 2025-07-22
         events:
           - name: LEC 13
@@ -27,6 +31,10 @@
             # readings:
             #   - name: BPD 1-6
             #     url: https://notes.dsc10.com/01-getting_started/tools.html
+          - name: LAB 5
+            type: lab
+            title: DataFrames, Control Flow, and Probability
+
       - date: 2025-07-23
         events:
           - name: LEC 14
@@ -38,6 +46,7 @@
             # readings:
             #   - name: BPD 1-6
             #     url: https://notes.dsc10.com/01-getting_started/tools.html
+
       - date: 2025-07-25
         events:
           - name: LEC 15
@@ -49,4 +58,7 @@
             # readings:
             #   - name: BPD 1-6
             #     url: https://notes.dsc10.com/01-getting_started/tools.html
+          - name: HW 5
+            type: hw
+            title: The Normal Distribution and the Central Limit Theorem
 ---

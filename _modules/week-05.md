@@ -16,6 +16,9 @@
           - name: QUIZ 4
             type: quiz
             title: Quiz 3 covers Lectures 12-15
+          - name: LAB 6
+            type: lab
+            title: Hypothesis Testing
       - date: 2025-07-29
         events:
           - name: LEC 17
@@ -38,6 +41,12 @@
             # readings:
             #   - name: BPD 1-6
             #     url: https://notes.dsc10.com/01-getting_started/tools.html
+          - name: LAB 7
+            type: lab
+            title: Regression
+          - name: Hw 6
+            type: hw
+            title: Hypothesis Testing and Permutation Testing
       - date: 2025-08-01
         events:
           - name: LEC 19

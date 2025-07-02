@@ -42,6 +42,9 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: LAB 2
+          type: lab
+          title: Data Visualizations and Python Functions
     - date: 2025-07-11
       events:
         - name: LEC 7
@@ -53,4 +56,7 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: HW 2
+          type: hw
+          title: DataFrames, Data Visualization, and Functions
 ---
