@@ -50,11 +50,11 @@ days:
           type: lab
           title: Simulation, Sampling, Bootstrapping
           
-     - date: 2025-07-17
-        events:
-          - name: LAB 4
-            type: lab
-            title: Simulation, Sampling, Bootstrapping
+    - date: 2025-07-17
+      events:
+        - name: LAB 4
+          type: lab
+          title: Simulation, Sampling, Bootstrapping
 
     - date: 2025-07-18
       events:
