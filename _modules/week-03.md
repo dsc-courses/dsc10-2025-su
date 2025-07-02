@@ -46,9 +46,6 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
-        - name: LAB 4
-          type: lab
-          title: Simulation, Sampling, Bootstrapping
           
     - date: 2025-07-17
       events:
