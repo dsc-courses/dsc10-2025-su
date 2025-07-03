@@ -289,6 +289,8 @@ After submitting, check that you got a confirmation email
 from Gradescope to verify that your submission was successful. Save this email
 until you receive your grade on the assignment, in case of any issues with your submission.
 
+**Assignments may be submitted up to 2 days late, with a 5% penalty per day** (e.g. a submission 1 day late is capped at 95%, 2 days late at 90%). Submissions more than 2 days late will not be accepted without an approved extension.
+
 Extension requests will be granted on a case-by-case basis; please
 [email Sam directly](mailto:sac003@ucsd.edu) (sac003@ucsd.edu)
 as soon as possible once you know that you may need an extension. The earlier we know that
