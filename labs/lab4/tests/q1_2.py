@@ -1,0 +1,10 @@
+test = {   'name': 'q1_2',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(ten_reps, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> ten_reps[0] == True or ten_reps[0] == False\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 0 <= np.sum(ten_reps) <= 10\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 0 <= rough_success_chance <= 1\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
