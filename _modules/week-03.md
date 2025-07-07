@@ -35,6 +35,7 @@ days:
         - name: HW 3
           type: hw
           title: DataFrames, Control Flow, and Probability
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw3/hw3.ipynb
 
     - date: 2025-07-16
       events:
