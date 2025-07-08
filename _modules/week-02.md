@@ -22,11 +22,20 @@ days:
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw1/hw1.ipynb
     - date: 2025-07-08
       events:
-        - name: LEC 5
+        - name: LEC 5, part 1
           type: lecture
-          title: Histograms, Functions, and Applying
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec05/lec05.ipynb
-          # html: resources/lectures/lec05/lec05.html
+          title: Histograms and Distributions
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec05/lec05-1.ipynb
+          html: resources/lectures/lec05/lec05-1.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: LEC 5, part 2
+          type: lecture
+          title: Functions 
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec05/lec05-2.ipynb
+          html: resources/lectures/lec05/lec05-2.html
           podcast:
           # readings:
           #   - name: BPD 1-6
