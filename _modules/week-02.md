@@ -25,7 +25,7 @@ days:
         - name: LEC 5, part 1
           type: lecture
           title: Histograms and Distributions
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec05/lec05-1.ipynb
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec05/lec05-1.ipynb
           html: resources/lectures/lec05/lec05-1.html
           podcast:
           # readings:
@@ -34,7 +34,7 @@ days:
         - name: LEC 5, part 2
           type: lecture
           title: Functions 
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec05/lec05-2.ipynb
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec05/lec05-2.ipynb
           html: resources/lectures/lec05/lec05-2.html
           podcast:
           # readings:
