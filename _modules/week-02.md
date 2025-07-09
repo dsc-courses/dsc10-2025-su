@@ -42,10 +42,19 @@ days:
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
     - date: 2025-07-09
       events:
-        - name: LEC 6
+        - name: LEC 6, Part 1
           type: lecture
-          title: Grouping on Multiple Columns, Merging, Conditional Statements and Iteration
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec06/lec06.ipynb
+          title: Applying
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec06/lec06-part-1.ipynb
+          # html: resources/lectures/lec06/lec06.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: LEC 6, Part 2
+          type: lecture
+          title: Grouping on Multiple Columns, Merging
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec06/lec06-part-2.ipynb
           # html: resources/lectures/lec06/lec06.html
           podcast:
           # readings:
@@ -59,7 +68,7 @@ days:
       events:
         - name: LEC 7
           type: lecture
-          title: Probability
+          title: Probability, Conditional Statements and Iteration
           # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec07/lec07.ipynb
           # html: resources/lectures/lec07/lec07.html
           podcast:
