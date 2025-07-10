@@ -9,7 +9,7 @@ days:
           title: Data Visualization and Distributions
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec04/lec04.ipynb
           html: resources/lectures/lec04/lec04.html
-          podcast:
+          podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/4
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -27,7 +27,7 @@ days:
           title: Histograms and Distributions
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec05/lec05-1.ipynb
           html: resources/lectures/lec05/lec05-1.html
-          podcast:
+          podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/5
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -46,8 +46,8 @@ days:
           type: lecture
           title: Applying
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec06/lec06-part-1.ipynb
-          # html: resources/lectures/lec06/lec06.html
-          podcast:
+          html: resources/lectures/lec06/lec06-part-1.html
+          podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -55,7 +55,7 @@ days:
           type: lecture
           title: Grouping on Multiple Columns, Merging
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec06/lec06-part-2.ipynb
-          # html: resources/lectures/lec06/lec06.html
+          html: resources/lectures/lec06/lec06-part-2.html
           podcast:
           # readings:
           #   - name: BPD 1-6

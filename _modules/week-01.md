@@ -21,7 +21,7 @@ days:
         title: Strings, String Methods, Lists, and Arrays
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec02/lec02.ipynb
         html: resources/lectures/lec02/lec02.html
-        podcast:
+        podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/2
         readings:
           - name: BPD 8-9
             url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -37,7 +37,7 @@ days:
         title: DataFrames, Indexing, Queries, Intro to Grouping
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec03/lec03.ipynb
         html: resources/lectures/lec03/lec03.html
-        podcast:
+        podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/3
         # readings:
         #   - name: BPD 1-6
         #     url: https://notes.dsc10.com/01-getting_started/tools.html
