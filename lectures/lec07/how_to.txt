@@ -1,0 +1,13 @@
+Make edits as needed to lec11.ipynb.
+
+In lec11.ipynb, go to File, Download as Reveal .js slides (.slides.html).
+
+Put the .slides.html file back in the lec11 folder (so that it's in the same folder as rise.css, for formatting).
+
+Open lec11.slides.html in a text editor and add the line <link rel="stylesheet" href="rise.css" id="theme"> under <!-- General and theme style sheets -->, in addition to whatever is currently there.
+
+Open lec11.slides.html by clicking on it and opening it in a web broswer, then print to PDF (landscape orientation, 90% size so the content always fits). This part does not work on Janine's computer for some reason.
+
+On the website, post blank slides.
+
+After lecture, post link to solutions notebook in Datahub and annotated slides.
