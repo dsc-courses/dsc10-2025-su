@@ -69,7 +69,7 @@ days:
         - name: LEC 7
           type: lecture
           title: Probability, Conditional Statements and Iteration
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec07/lec07.ipynb
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec07/lec07-part-1.ipynb
           # html: resources/lectures/lec07/lec07.html
           podcast:
           # readings:
