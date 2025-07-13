@@ -16,10 +16,6 @@ days:
         - name: QUIZ 2
           type: quiz
           title: Quiz 2 covers Lectures 4-7
-        - name: LAB 3
-          type: lab
-          title: DataFrames, Control Flow, and Probability
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab3/lab3.ipynb
 
     - date: 2025-07-15
       events:
@@ -32,10 +28,10 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
-        - name: HW 3
-          type: hw
+        - name: LAB 3
+          type: lab
           title: DataFrames, Control Flow, and Probability
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw3/hw3.ipynb
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab3/lab3.ipynb
 
     - date: 2025-07-16
       events:
@@ -48,17 +44,18 @@ days:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
-          
-    - date: 2025-07-17
-      events:
-        - name: LAB 4
-          type: lab
-          title: Simulation, Sampling, Bootstrapping
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab4/lab4.ipynb
+        - name: HW 3
+          type: hw
+          title: DataFrames, Control Flow, and Probability
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw3/hw3.ipynb
 
     - date: 2025-07-18
       events:
         - name: EXAM
           type: exam
           title: <b>Midterm Exam covers Lectures 1-8</b>
+        - name: LAB 4
+          type: lab
+          title: Simulation, Sampling, Bootstrapping
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab4/lab4.ipynb
 ---

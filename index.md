@@ -13,8 +13,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .warning }
-This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Summer 2025.
+<!-- {: .warning }
+This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Summer 2025. -->
 
 <!-- {: .success }
 >The Final Exam is **this Saturday, August 3rd from 11:30-2:30PM** in Mosaic 0204.
@@ -36,7 +36,7 @@ We have a busy week in DSC 10. See [Ed](https://edstem.org/us/courses/60685/disc
 The Midterm Exam is this Thursday, July 18 from 11-11:50AM in Mosaic 0204, our usual lecture time and room. Details on logistics, format, etc can be found [on Ed](https://edstem.org/us/courses/60685/discussion/5105021). -->
 
 
-[Jump to the current week](#week-2-data-visualization-and-probability){: .btn }
+[Jump to the current week](#week-3-simulation-sampling-confidence-intervals-midterm){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
