@@ -1,0 +1,11 @@
+test = {   'name': 'q4_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> isinstance(city_means, bpd.DataFrame) and set(city_means.columns) == set(['Price'])\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> list(city_means.index) == ['Singapore', 'Tokyo', 'Seoul', 'Bangkok']\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> np.all(city_means.get('Price') <= city_means.loc['Singapore'].get('Price')) # Make sure that Singapore has the highest average hotel price!\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
