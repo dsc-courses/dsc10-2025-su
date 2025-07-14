@@ -6,9 +6,9 @@ days:
       events:
         - name: LEC 8
           type: lecture
-          title: Simulation, Distributions and Sampling
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec08/lec08.ipynb
-          # html: resources/lectures/lec08/lec08.html
+          title: Simulation
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec08/lec08.ipynb
+          html: resources/lectures/lec08/lec08.html
           podcast:
           # readings:
           #   - name: BPD 1-6
