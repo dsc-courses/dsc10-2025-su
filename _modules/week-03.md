@@ -21,9 +21,9 @@ days:
       events:
         - name: LEC 9
           type: lecture
-          title: Distributions and Sampling Continued, Bootstrapping and Confidence
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec09/lec09.ipynb
-          # html: resources/lectures/lec09/lec09.html
+          title: Distributions, Sampling,  and Bootstrapping 
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec09/lec09.ipynb
+          html: resources/lectures/lec09/lec09.html
           podcast:
           # readings:
           #   - name: BPD 1-6
@@ -35,11 +35,20 @@ days:
 
     - date: 2025-07-16
       events:
-        - name: LEC 10
+        - name: LEC 10, part 1
           type: lecture
-          title: Confidence Intervals, Center and Spread, Midterm Review
-          # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec10/lec10.ipynb
-          # html: resources/lectures/lec10/lec10.html
+          title: Bootstrapping Continued, Confidence Intervals
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec10/lec10-part-1.ipynb
+          html: resources/lectures/lec10/lec10-part-1.html
+          podcast:
+          # readings:
+          #   - name: BPD 1-6
+          #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: LEC 10, part 2
+          type: lecture
+          title: Confidence Intervals, Center, and Spread
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec10/lec10-part-2.ipynb
+          html: resources/lectures/lec10/lec10-part-2.html
           podcast:
           # readings:
           #   - name: BPD 1-6
