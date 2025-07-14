@@ -19,6 +19,7 @@
           - name: HW 4
             type: hw
             title: Simulation, Sampling, and Bootstrapping
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw4/hw4.ipynb
 
       - date: 2025-07-22
         events:
@@ -33,7 +34,8 @@
             #     url: https://notes.dsc10.com/01-getting_started/tools.html
           - name: LAB 5
             type: lab
-            title: DataFrames, Control Flow, and Probability
+            title: Variability and the Normal Distribution
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab5/lab5.ipynb
 
       - date: 2025-07-23
         events:
@@ -61,4 +63,5 @@
           - name: HW 5
             type: hw
             title: The Normal Distribution and the Central Limit Theorem
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=homeworks/hw5/hw5.ipynb
 ---
