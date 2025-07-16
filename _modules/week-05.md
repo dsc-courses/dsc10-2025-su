@@ -63,4 +63,8 @@
           - name: EXAM
             type: exam
             title: <b>Final Exam (8AM to 11AM)</b>
+          - name: PROJ
+            type: proj
+            title: Final Project
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=projects/final_project/FinalProject.ipynb
 ---
