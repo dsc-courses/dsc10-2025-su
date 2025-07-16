@@ -66,15 +66,19 @@ days:
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=labs/lab2/lab2.ipynb
     - date: 2025-07-11
       events:
-        - name: LEC 7
+        - name: LEC 7, part 1
           type: lecture
-          title: Probability, Conditional Statements and Iteration
+          title: Conditional Statements and Iteration
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec07/lec07-part-1.ipynb
-          # html: resources/lectures/lec07/lec07.html
+          html: resources/lectures/lec07/lec07-part-1.html
           podcast:
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
+        - name: LEC 7, part 2
+          type: lecture
+          title: Probability
+          html: resources/lectures/lec07/lec07-part-2.html
         - name: HW 2
           type: hw
           title: DataFrames, Data Visualization, and Functions
