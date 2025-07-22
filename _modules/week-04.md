@@ -9,7 +9,7 @@
             title: Standardization and the Normal Distribution, Introduction to the Central Limit Theorem
             url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec11/lec11.ipynb
             # html: resources/lectures/lec12/lec12.html
-            podcast:
+            podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00
             # readings:
             #   - name: BPD 1-6
             #     url: https://notes.dsc10.com/01-getting_started/tools.html

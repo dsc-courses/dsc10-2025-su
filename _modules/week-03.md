@@ -9,7 +9,7 @@ days:
           title: Simulation
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec08/lec08.ipynb
           html: resources/lectures/lec08/lec08.html
-          podcast:
+          podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/8
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -24,7 +24,7 @@ days:
           title: Distributions, Sampling,  and Bootstrapping 
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec09/lec09.ipynb
           html: resources/lectures/lec09/lec09.html
-          podcast:
+          podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/9
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
@@ -40,7 +40,7 @@ days:
           title: Bootstrapping Continued, Confidence Intervals
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec10/lec10-part-1.ipynb
           html: resources/lectures/lec10/lec10-part-1.html
-          podcast:
+          podcast: https://podcast.ucsd.edu/watch/s125/dsc10_a00/10
           # readings:
           #   - name: BPD 1-6
           #     url: https://notes.dsc10.com/01-getting_started/tools.html
