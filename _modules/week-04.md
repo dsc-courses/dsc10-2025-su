@@ -60,10 +60,19 @@
 
       - date: 2025-07-25
         events:
-          - name: LEC 14
+          - name: LEC 14, Part 1
             type: lecture
-            title: Total Variation Distance and Permutation Testing
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec15/lec15.ipynb
+            title: Total Variation Distance
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec14/lec14.ipynb
+            # html: resources/lectures/lec15/lec15.html
+            podcast:
+            # readings:
+            #   - name: BPD 1-6
+            #     url: https://notes.dsc10.com/01-getting_started/tools.html
+          - name: LEC 14, Part 2
+            type: lecture
+            title: Permutation Testing
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec14/lec14_part_2.ipynb
             # html: resources/lectures/lec15/lec15.html
             podcast:
             # readings:
