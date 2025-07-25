@@ -63,6 +63,7 @@ days:
         - name: EXAM
           type: exam
           title: <b>Midterm Exam covers Lectures 1-8</b>
+          html: resources/exams/su25_midterm_sols.pdf
         - name: LAB 4
           type: lab
           title: Simulation, Sampling, Bootstrapping
