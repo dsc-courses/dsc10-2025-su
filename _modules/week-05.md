@@ -34,7 +34,7 @@
           - name: LEC 16
             type: lecture
             title: Correlation Continued, Regression, and Least Squares
-            # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec13/lec13.ipynb
+            url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-su&subPath=lectures/lec16/lec16.ipynb
             # html: resources/lectures/lec13/lec13.html
             podcast:
             # readings:
