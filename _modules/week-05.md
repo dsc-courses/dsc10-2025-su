@@ -65,7 +65,7 @@
             type: lecture
             title: Final Review
             # url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec15/lec15.ipynb
-            # html: resources/lectures/lec15/lec15.html
+            html: resources/exams/su25_final_review.pdf
             podcast:
             # readings:
             #   - name: BPD 1-6
